@@ -186,7 +186,7 @@ The user is still at business-foundation stage, even though the business type is
 
 ### What Still Feels Thin
 
-- SaaS-specific depth still depends on overlays rather than a dedicated workflow
+- SaaS-specific depth still lacks a dedicated workflow even though the overlay direction is now clearer
 - no dedicated SaaS launch or SaaS validation workflow exists yet
 - regulated domain concerns like clinics / healthcare are outside the current system boundary
 
@@ -257,7 +257,7 @@ The system is usable but still thinner for:
 
 Based on this smoke test, the best next documents or skills are:
 
-1. SaaS-specific workflow or overlay spec
+1. SaaS-specific workflow
 2. local-service overlay spec
 3. deep import / sourcing execution spec
 4. launch-commerce specifics for premium D2C brands
