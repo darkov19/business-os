@@ -26,7 +26,7 @@ In those cases, prefer `$start-business`, `$expansion-smoke-test`, or a narrower
 
 ## Core Workflow
 
-Run the `Pivot Existing Business` workflow from the active `v2` docs.
+Run the `Pivot Existing Business` workflow from the canonical Business OS docs.
 
 ### Stage Order
 
@@ -53,13 +53,13 @@ Run the `Pivot Existing Business` workflow from the active `v2` docs.
 
 Load these as needed:
 
-- `/home/darko/Code/chitr/docs/business-os-workflow-pivot-existing-business-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-question-bank-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-artifact-templates-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-evidence-rubric-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-module-spec-o07-expansion-smoke-test-v2.md`
+- `/home/darko/Code/chitr/docs/business-os-workflow-pivot-existing-business.md`
+- `/home/darko/Code/chitr/docs/business-os-question-bank.md`
+- `/home/darko/Code/chitr/docs/business-os-artifact-templates.md`
+- `/home/darko/Code/chitr/docs/business-os-evidence-rubric.md`
+- `/home/darko/Code/chitr/docs/business-os-module-spec-o07-expansion-smoke-test.md`
 
-Also load relevant module docs from the `v2` framework when the pivot touches pricing, operations, finance, or channels.
+Also load relevant module docs from the Business OS framework when the pivot touches pricing, operations, finance, or channels.
 
 ## Default Output Set
 

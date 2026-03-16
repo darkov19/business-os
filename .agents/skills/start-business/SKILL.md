@@ -26,7 +26,7 @@ In those cases, prefer `$pivot-business`, `$expansion-smoke-test`, or the approp
 
 ## Core Workflow
 
-Run the `Start From Scratch` workflow from the active `v2` docs.
+Run the `Start From Scratch` workflow from the canonical Business OS docs.
 
 ### Stage Order
 
@@ -39,7 +39,7 @@ Run the `Start From Scratch` workflow from the active `v2` docs.
 
 ## Required Operating Rules
 
-1. Use only `v2` docs in `/home/darko/Code/chitr/docs`.
+1. Use the canonical Business OS docs in `/home/darko/Code/chitr/docs`.
 2. Ask compact batches of questions, not giant interrogations.
 3. Separate:
    - user facts
@@ -52,11 +52,11 @@ Run the `Start From Scratch` workflow from the active `v2` docs.
 
 Load these as needed:
 
-- `/home/darko/Code/chitr/docs/business-os-workflow-start-from-scratch-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-question-bank-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-artifact-templates-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-evidence-rubric-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-module-spec-m05-customer-research-v2.md`
+- `/home/darko/Code/chitr/docs/business-os-workflow-start-from-scratch.md`
+- `/home/darko/Code/chitr/docs/business-os-question-bank.md`
+- `/home/darko/Code/chitr/docs/business-os-artifact-templates.md`
+- `/home/darko/Code/chitr/docs/business-os-evidence-rubric.md`
+- `/home/darko/Code/chitr/docs/business-os-module-spec-m05-customer-research.md`
 
 ## Default Output Set
 

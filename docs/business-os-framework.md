@@ -1,13 +1,13 @@
-# Business OS Framework v2
+# Business OS Framework
 
 Status: Draft master framework
-Purpose: Provide the v2 single source of truth for the Business OS architecture after the first stress-test revision.
+Purpose: Provide the single source of truth for the current Business OS architecture.
 
 Related:
 
 - [business-os-framework-v1.md](./deprecated/business-os-framework-v1.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
-- [business-os-artifact-map-v2.md](./business-os-artifact-map-v2.md)
+- [business-os-module-map.md](./business-os-module-map.md)
+- [business-os-artifact-map.md](./business-os-artifact-map.md)
 
 ---
 
@@ -27,7 +27,7 @@ It is designed to adapt to the user's query rather than force every user through
 
 ---
 
-## 2. What Changed In v2
+## 2. What Changed From The Archived Draft Set
 
 Version 1 proved the architecture on Chitr and similar businesses.
 
@@ -61,15 +61,15 @@ The Business OS still uses six layers:
 
 References:
 
-- [business-os-intent-map-v2.md](./business-os-intent-map-v2.md)
-- [business-os-context-classifier-v2.md](./business-os-context-classifier-v2.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
-- [business-os-artifact-map-v2.md](./business-os-artifact-map-v2.md)
-- [business-os-decision-gate-philosophy-v2.md](./business-os-decision-gate-philosophy-v2.md)
+- [business-os-intent-map.md](./business-os-intent-map.md)
+- [business-os-context-classifier.md](./business-os-context-classifier.md)
+- [business-os-module-map.md](./business-os-module-map.md)
+- [business-os-artifact-map.md](./business-os-artifact-map.md)
+- [business-os-decision-gate-philosophy.md](./business-os-decision-gate-philosophy.md)
 
 ---
 
-## 4. Supported Intents In v2
+## 4. Supported Intents
 
 The OS supports these primary intents:
 
@@ -87,7 +87,7 @@ The OS supports these primary intents:
 
 ---
 
-## 5. Context Coverage In v2
+## 5. Context Coverage
 
 The OS now supports the following first-class business contexts:
 
@@ -104,9 +104,9 @@ The OS now supports the following first-class business contexts:
 
 ---
 
-## 6. Core Modules In v2
+## 6. Core Modules
 
-The v2 core module set is:
+The current core module set is:
 
 1. M01 Founder Context And Intent
 2. M02 Current State And Pivot Diagnosis
@@ -129,9 +129,9 @@ The v2 core module set is:
 
 ---
 
-## 7. Overlay Modules In v2
+## 7. Overlay Modules
 
-The v2 overlay set is:
+The current overlay set is:
 
 1. O01 Asset And Capability Audit
 2. O02 Productization / Service Standardization
@@ -151,9 +151,9 @@ The v2 overlay set is:
 
 ---
 
-## 8. Artifact System In v2
+## 8. Artifact System
 
-The v2 artifact system now covers:
+The current artifact system covers:
 
 - foundational business documents
 - strategy decisions
@@ -164,7 +164,7 @@ The v2 artifact system now covers:
 - specialized overlay outputs
 - master dossiers and trackers
 
-Important additions in v2:
+Important additions from the archived draft set:
 
 - Financial Planning Memo
 - Capital Allocation Priorities Note
@@ -179,7 +179,7 @@ Important additions in v2:
 
 ---
 
-## 9. Decision Gates In v2
+## 9. Decision Gates
 
 The OS continues to use explicit gate outcomes:
 
@@ -201,7 +201,7 @@ Version 2 strengthens gate logic for:
 
 ## 10. Chitr Fit
 
-The v2 system remains strong for Chitr because it still supports:
+The current system remains strong for Chitr because it still supports:
 
 - studio-to-product pivot logic
 - productization
@@ -218,17 +218,17 @@ It is stronger than v1 for Chitr in:
 
 ## 11. Build Status
 
-Completed in v2 architecture:
+Completed in the current architecture:
 
-- scope v2
-- intent map v2
-- context classifier v2
-- module map v2
-- artifact map v2
-- decision-gate philosophy v2
-- framework v2
-- stress test v2
-- gap-resolution v2
+- scope
+- intent map
+- context classifier
+- module map
+- artifact map
+- decision-gate philosophy
+- framework
+- stress test
+- gap resolution
 
 Still needed for implementation:
 

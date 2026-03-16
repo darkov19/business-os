@@ -2,7 +2,9 @@
 .agents/*
 !.agents/skills/
 !.agents/skills/**
-.claude/
+.claude/*
+!.claude/commands/
+!.claude/commands/**
 .gemini/
 _bmad/
 _bmad-output/

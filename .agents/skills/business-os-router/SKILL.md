@@ -21,7 +21,7 @@ Do not use this skill when the user has already clearly invoked a more specific 
 
 ## Core Behavior
 
-1. Use only the active `v2` Business OS docs in `/home/darko/Code/chitr/docs`.
+1. Use the canonical Business OS docs in `/home/darko/Code/chitr/docs`.
 2. Ignore `/home/darko/Code/chitr/docs/deprecated/` unless comparing history is explicitly useful.
 3. Classify the request across:
    - primary intent
@@ -72,7 +72,7 @@ If the route is clear:
 - `Pivot Existing Business` -> use `$pivot-business`
 - `Evaluate Expansion / New Category` -> use `$expansion-smoke-test`
 
-If the right workflow does not yet have a dedicated skill, route using the `v2` workflow and module docs directly.
+If the right workflow does not yet have a dedicated skill, route using the canonical workflow and module docs directly.
 
 ### 4. Return A Compact Route Summary
 

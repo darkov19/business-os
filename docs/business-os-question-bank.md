@@ -1,14 +1,14 @@
-# Business OS Question Bank v2
+# Business OS Question Bank
 
 Status: Implementation document
 Purpose: Provide a reusable bank of business questions that the Business OS can use across routing, discovery, module execution, validation, and artifact generation.
 
 Related:
 
-- [business-os-intent-map-v2.md](./business-os-intent-map-v2.md)
-- [business-os-context-classifier-v2.md](./business-os-context-classifier-v2.md)
-- [business-os-module-spec-template-v2.md](./business-os-module-spec-template-v2.md)
-- [business-os-evidence-rubric-v2.md](./business-os-evidence-rubric-v2.md)
+- [business-os-intent-map.md](./business-os-intent-map.md)
+- [business-os-context-classifier.md](./business-os-context-classifier.md)
+- [business-os-module-spec-template.md](./business-os-module-spec-template.md)
+- [business-os-evidence-rubric.md](./business-os-evidence-rubric.md)
 
 ---
 

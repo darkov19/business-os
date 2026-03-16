@@ -1,12 +1,12 @@
-# Business OS Artifact Map v2
+# Business OS Artifact Map
 
 Status: Revised draft
-Purpose: Define the v2 artifact system for the Business OS, including new outputs required by finance, retention, SaaS, local service, education, marketplace, experimentation, and org-design coverage.
+Purpose: Define the current artifact system for the Business OS, including new outputs required by finance, retention, SaaS, local service, education, marketplace, experimentation, and org-design coverage.
 
 Related:
 
 - [business-os-artifact-map-v1.md](./deprecated/business-os-artifact-map-v1.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
+- [business-os-module-map.md](./business-os-module-map.md)
 
 ---
 
@@ -37,7 +37,7 @@ Version 2 expands the artifact system so the OS captures not only strategy and l
 
 ## 2. Artifact Layers
 
-The v2 artifact system has:
+The current artifact system has:
 
 1. Foundation artifacts
 2. Research artifacts
@@ -92,7 +92,7 @@ Version 2 keeps the main v1 artifacts, including:
 
 ---
 
-## 4. New Core Artifacts In v2
+## 4. New Core Artifacts
 
 ### A37. Financial Planning Memo
 
@@ -136,7 +136,7 @@ Purpose:
 
 ---
 
-## 5. New Overlay Artifacts In v2
+## 5. New Overlay Artifacts
 
 ### A41. SaaS / Digital Product Growth Note
 
@@ -231,7 +231,7 @@ Should now also include where relevant:
 
 ---
 
-## 7. Intent To Artifact Updates In v2
+## 7. Intent To Artifact Updates
 
 ### Start From Scratch
 
@@ -330,9 +330,9 @@ Primary outputs:
 
 ---
 
-## 8. Chitr In v2
+## 8. Chitr In The Current System
 
-For Chitr by Aalekh, the v2 artifact system now improves the most in three places:
+For Chitr by Aalekh, the current artifact system improves the most in three places:
 
 - financial planning around launch and future expansion
 - pilot / experiment logic for new categories
@@ -344,7 +344,7 @@ That makes the OS more operationally realistic without changing the core Chitr a
 
 ## 9. Recommended Next Layer
 
-After the v2 artifact map, the next implementation documents should be:
+After the artifact map, the next implementation documents should be:
 
 1. standard module spec template
 2. artifact templates

@@ -1,4 +1,4 @@
-# Business OS Gap Resolution v2
+# Business OS Gap Resolution
 
 Status: Draft implementation checkpoint
 Purpose: Record which architecture gaps from the first stress test have now been addressed in version 2 and which gaps still remain open.
@@ -6,12 +6,12 @@ Purpose: Record which architecture gaps from the first stress test have now been
 Related:
 
 - [business-os-gap-resolution-v1.md](./deprecated/business-os-gap-resolution-v1.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
-- [business-os-stress-test-v2.md](./business-os-stress-test-v2.md)
+- [business-os-module-map.md](./business-os-module-map.md)
+- [business-os-stress-test.md](./business-os-stress-test.md)
 
 ---
 
-## 1. Resolved In v2
+## 1. Resolved In The Current System
 
 The following gaps identified in the first stress test are now addressed architecturally.
 
@@ -75,7 +75,7 @@ They are now implementation-depth gaps.
 
 ---
 
-## 3. Still Open After v2
+## 3. Still Open After The Current Revision
 
 The following areas are still not deeply handled and may require later overlays or specialist modules.
 
@@ -86,7 +86,7 @@ The following areas are still not deeply handled and may require later overlays 
 - deep manufacturing operations
 - multi-country compliance-heavy businesses
 
-These are acceptable exclusions for v2.
+These are acceptable exclusions for the current system.
 
 ---
 

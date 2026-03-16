@@ -1,4 +1,4 @@
-# Business OS Context Classifier v2
+# Business OS Context Classifier
 
 Status: Revised draft
 Purpose: Define how the Business OS should classify business context in version 2 so the same intent can be adapted correctly across product, service, software, education, channel-led, and hybrid business models.
@@ -6,11 +6,11 @@ Purpose: Define how the Business OS should classify business context in version 
 Related:
 
 - [business-os-context-classifier-v1.md](./deprecated/business-os-context-classifier-v1.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
+- [business-os-module-map.md](./business-os-module-map.md)
 
 ---
 
-## 1. Why v2 Exists
+## 1. Why This Exists
 
 Version 1 classified product, service, studio, ecommerce, B2B, distributor, and hybrid businesses well enough for Chitr and similar businesses.
 
@@ -344,11 +344,11 @@ Likely overlays:
 
 Note:
 
-Marketplace dependence should stay inside O13 and M12 in v2.
+Marketplace dependence should stay inside O13 and M12 in the current system.
 
 ---
 
-## 10. Chitr Classification In v2
+## 10. Chitr Classification In The Current System
 
 Chitr by Aalekh would likely classify as:
 
@@ -365,7 +365,7 @@ Flags:
 - founder-sensitive
 - possible future import-dependent expansion
 
-This confirms that v2 still handles Chitr cleanly while expanding beyond it.
+This confirms that the current system still handles Chitr cleanly while expanding beyond it.
 
 ---
 

@@ -2,14 +2,14 @@
 
 Status: Draft
 Type: Core
-Version: v2
+Version: current
 Owner: Business OS
 
 Related:
 
-- [business-os-module-spec-template-v2.md](./business-os-module-spec-template-v2.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
-- [business-os-decision-gate-philosophy-v2.md](./business-os-decision-gate-philosophy-v2.md)
+- [business-os-module-spec-template.md](./business-os-module-spec-template.md)
+- [business-os-module-map.md](./business-os-module-map.md)
+- [business-os-decision-gate-philosophy.md](./business-os-decision-gate-philosophy.md)
 
 ---
 

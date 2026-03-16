@@ -1,4 +1,4 @@
-# Business OS Scope v2
+# Business OS Scope
 
 Status: Draft for discussion
 Purpose: Define the scope, boundaries, design principles, and coverage expectations for the second version of the Business OS.
@@ -6,11 +6,11 @@ Purpose: Define the scope, boundaries, design principles, and coverage expectati
 Related:
 
 - [business-os-scope-v1.md](./deprecated/business-os-scope-v1.md)
-- [business-os-gap-resolution-v2.md](./business-os-gap-resolution-v2.md)
+- [business-os-gap-resolution.md](./business-os-gap-resolution.md)
 
 ---
 
-## 1. Why v2 Exists
+## 1. Why This Exists
 
 Version 1 established the right foundation:
 
@@ -158,7 +158,7 @@ Version 2 expands the coverage inside those layers rather than changing the arch
 
 ---
 
-## 7. Must-Cover Decision Areas In v2
+## 7. Must-Cover Decision Areas
 
 The OS should now cover all of the following:
 
@@ -183,7 +183,7 @@ The OS should now cover all of the following:
 
 ---
 
-## 8. Must-Cover Overlay Areas In v2
+## 8. Must-Cover Overlay Areas
 
 Version 2 should explicitly support overlays for:
 
@@ -245,7 +245,7 @@ The OS should produce outputs that are:
 
 ## 11. Immediate Next Design Work
 
-The v2 architecture now exists.
+The current architecture now exists.
 
 The next implementation layer should be:
 

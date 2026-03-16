@@ -1,4 +1,4 @@
-# Business OS Intent Map v2
+# Business OS Intent Map
 
 Status: Revised draft
 Purpose: Define how the Business OS should interpret user queries, detect primary and secondary intents, and route users into the correct workflows and modules in version 2.
@@ -6,7 +6,7 @@ Purpose: Define how the Business OS should interpret user queries, detect primar
 Related:
 
 - [business-os-intent-map-v1.md](./deprecated/business-os-intent-map-v1.md)
-- [business-os-framework-v2.md](./business-os-framework-v2.md)
+- [business-os-framework.md](./business-os-framework.md)
 
 ---
 
@@ -403,7 +403,7 @@ The likely route is:
 
 ---
 
-## 7. v2 Routing Improvements
+## 7. Routing Improvements
 
 Compared with v1, the router should now better recognize:
 

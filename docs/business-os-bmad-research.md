@@ -180,7 +180,7 @@ This should hold:
 - artifact rules
 - shared question and evidence standards
 
-For us, this is already mostly defined by the Business OS v2 docs.
+For us, this is already mostly defined by the Business OS docs.
 
 ## 5.2 Business Module Layer
 
@@ -418,7 +418,7 @@ If we want this to work well in Codex first and stay portable to Claude Code, th
     document-business/
     diagnose-business/
 docs/
-  business-os-framework-v2.md
+  business-os-framework.md
   business-os-*.md
   templates/
   overlays/
@@ -436,10 +436,10 @@ This is an inference from the official Codex skill layout and Claude Code projec
 
 The best next steps are:
 
-1. create `business-os-module-spec-template-v2.md`
-2. create `business-os-artifact-templates-v2.md`
-3. create `business-os-question-bank-v2.md`
-4. create `business-os-evidence-rubric-v2.md`
+1. create `business-os-module-spec-template.md`
+2. create `business-os-artifact-templates.md`
+3. create `business-os-question-bank.md`
+4. create `business-os-evidence-rubric.md`
 5. create the first `business-os-router` skill
 6. create the first 2-3 entry workflow skills
 

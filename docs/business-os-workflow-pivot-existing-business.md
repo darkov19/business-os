@@ -1,16 +1,16 @@
-# Business OS Workflow: Pivot Existing Business v2
+# Business OS Workflow: Pivot Existing Business
 
 Status: Draft workflow spec
 Purpose: Define the end-to-end workflow the Business OS should use when a user already has a business and wants to change its direction, model, offer structure, customer focus, or go-to-market approach.
 
 Related:
 
-- [business-os-framework-v2.md](./business-os-framework-v2.md)
-- [business-os-intent-map-v2.md](./business-os-intent-map-v2.md)
-- [business-os-context-classifier-v2.md](./business-os-context-classifier-v2.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
-- [business-os-gap-resolution-v2.md](./business-os-gap-resolution-v2.md)
-- [business-os-workflow-start-from-scratch-v2.md](./business-os-workflow-start-from-scratch-v2.md)
+- [business-os-framework.md](./business-os-framework.md)
+- [business-os-intent-map.md](./business-os-intent-map.md)
+- [business-os-context-classifier.md](./business-os-context-classifier.md)
+- [business-os-module-map.md](./business-os-module-map.md)
+- [business-os-gap-resolution.md](./business-os-gap-resolution.md)
+- [business-os-workflow-start-from-scratch.md](./business-os-workflow-start-from-scratch.md)
 
 ---
 

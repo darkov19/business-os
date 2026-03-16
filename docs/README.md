@@ -1,23 +1,49 @@
-# Chitr Documentation Map
+# Documentation Map
 
-This folder breaks the Chitr launch framework into working documents. The goal is to separate high-level strategy from operating detail so decisions are easier to review, refine, and execute.
+This folder contains the canonical Business OS documentation and a deprecated archive of earlier drafts.
 
-## Core Documents
+## Core Business OS Docs
 
-1. [01-business-foundation.md](./01-business-foundation.md)
-2. [02-brand-system.md](./02-brand-system.md)
-3. [03-product-collection-strategy.md](./03-product-collection-strategy.md)
-4. [04-artwork-development-system.md](./04-artwork-development-system.md)
-5. [05-operations-production-system.md](./05-operations-production-system.md)
-6. [06-pricing-unit-economics.md](./06-pricing-unit-economics.md)
-7. [07-ecommerce-content-conversion.md](./07-ecommerce-content-conversion.md)
-8. [08-packaging-fulfillment-after-sales.md](./08-packaging-fulfillment-after-sales.md)
-9. [09-launch-marketing-growth.md](./09-launch-marketing-growth.md)
-10. [10-custom-orders-b2b.md](./10-custom-orders-b2b.md)
-11. [11-open-decisions-and-validation.md](./11-open-decisions-and-validation.md)
+Start with:
 
-## How To Use This Set
+1. [business-os-framework.md](./business-os-framework.md)
+2. [business-os-scope.md](./business-os-scope.md)
+3. [business-os-intent-map.md](./business-os-intent-map.md)
+4. [business-os-context-classifier.md](./business-os-context-classifier.md)
+5. [business-os-module-map.md](./business-os-module-map.md)
+6. [business-os-artifact-map.md](./business-os-artifact-map.md)
+7. [business-os-decision-gate-philosophy.md](./business-os-decision-gate-philosophy.md)
 
-- Use `chitr_launch_framework.md` as the top-level strategy summary.
-- Use the docs in this folder as working documents for deeper review and decision-making.
-- Treat unresolved items in `11-open-decisions-and-validation.md` as active business questions, not finished answers.
+## Implementation Docs
+
+Use these to build skills and workflows:
+
+1. [business-os-module-spec-template.md](./business-os-module-spec-template.md)
+2. [business-os-artifact-templates.md](./business-os-artifact-templates.md)
+3. [business-os-evidence-rubric.md](./business-os-evidence-rubric.md)
+4. [business-os-question-bank.md](./business-os-question-bank.md)
+
+## Worked Modules
+
+1. [business-os-module-spec-m05-customer-research.md](./business-os-module-spec-m05-customer-research.md)
+2. [business-os-module-spec-o07-expansion-smoke-test.md](./business-os-module-spec-o07-expansion-smoke-test.md)
+
+## Workflow Specs
+
+1. [business-os-workflow-start-from-scratch.md](./business-os-workflow-start-from-scratch.md)
+2. [business-os-workflow-pivot-existing-business.md](./business-os-workflow-pivot-existing-business.md)
+3. [business-os-workflow-evaluate-expansion.md](./business-os-workflow-evaluate-expansion.md)
+
+## Supporting Notes
+
+1. [business-os-bmad-research.md](./business-os-bmad-research.md)
+2. [business-os-stress-test.md](./business-os-stress-test.md)
+3. [business-os-gap-resolution.md](./business-os-gap-resolution.md)
+
+## Archive
+
+Older drafts live in [deprecated](./deprecated/).
+
+## Chitr-Specific Draft
+
+The separate Chitr draft lives at [chitr_launch_framework.md](/home/darko/Code/chitr/chitr_launch_framework.md).

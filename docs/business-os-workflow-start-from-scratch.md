@@ -1,18 +1,18 @@
-# Business OS Workflow: Start From Scratch v2
+# Business OS Workflow: Start From Scratch
 
 Status: Draft workflow spec
 Purpose: Define the end-to-end workflow the Business OS should use when a user wants to start a business from scratch with only an idea, a vague concept, or an early direction.
 
 Related:
 
-- [business-os-framework-v2.md](./business-os-framework-v2.md)
-- [business-os-intent-map-v2.md](./business-os-intent-map-v2.md)
-- [business-os-context-classifier-v2.md](./business-os-context-classifier-v2.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
-- [business-os-module-spec-template-v2.md](./business-os-module-spec-template-v2.md)
-- [business-os-artifact-templates-v2.md](./business-os-artifact-templates-v2.md)
-- [business-os-evidence-rubric-v2.md](./business-os-evidence-rubric-v2.md)
-- [business-os-question-bank-v2.md](./business-os-question-bank-v2.md)
+- [business-os-framework.md](./business-os-framework.md)
+- [business-os-intent-map.md](./business-os-intent-map.md)
+- [business-os-context-classifier.md](./business-os-context-classifier.md)
+- [business-os-module-map.md](./business-os-module-map.md)
+- [business-os-module-spec-template.md](./business-os-module-spec-template.md)
+- [business-os-artifact-templates.md](./business-os-artifact-templates.md)
+- [business-os-evidence-rubric.md](./business-os-evidence-rubric.md)
+- [business-os-question-bank.md](./business-os-question-bank.md)
 
 ---
 

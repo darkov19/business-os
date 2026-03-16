@@ -1,4 +1,4 @@
-# Business OS Module Map v2
+# Business OS Module Map
 
 Status: Revised draft
 Purpose: Update the Business OS module architecture based on the first stress test, while preserving the strengths of v1 and expanding coverage for finance, retention, SaaS, local services, education, marketplaces, experimentation, and team design.
@@ -10,7 +10,7 @@ Related:
 
 ---
 
-## 1. Why v2 Exists
+## 1. Why This Exists
 
 Version 1 established a strong core for:
 
@@ -36,7 +36,7 @@ This version adds that missing coverage without rebuilding the architecture from
 
 ---
 
-## 2. Design Rules For v2
+## 2. Design Rules
 
 ### 2.1 Keep Decision Areas As The Core Structure
 
@@ -222,7 +222,7 @@ Purpose:
 
 - define where and how the business should sell
 
-Expanded in v2 to cover:
+Expanded in the current system to cover:
 
 - direct vs indirect channels
 - online vs offline mix
@@ -244,7 +244,7 @@ Purpose:
 
 - define how the business acquires demand, converts attention, and grows
 
-Expanded in v2 to cover:
+Expanded in the current system to cover:
 
 - acquisition
 - conversion
@@ -279,7 +279,7 @@ Purpose:
 
 - define business setup needs, major risks, compliance awareness, and structural readiness
 
-Expanded in v2 to cover:
+Expanded in the current system to cover:
 
 - import compliance awareness
 - payment terms risk
@@ -593,7 +593,7 @@ Purpose:
 
 ---
 
-## 7. Routing Implications In v2
+## 7. Routing Implications
 
 ### Scenario A: Chitr-Style Pivot Into Product Brand
 
@@ -708,7 +708,7 @@ Most relevant overlays:
 
 ---
 
-## 8. What v2 Fixes
+## 8. What The Current System Fixes
 
 Compared with v1, this version improves:
 
@@ -723,7 +723,7 @@ Compared with v1, this version improves:
 
 ---
 
-## 9. What Still Remains Outside v2
+## 9. What Still Remains Outside The Current System
 
 This version is stronger, but it still does not fully specialize for every domain.
 
@@ -735,15 +735,15 @@ Still likely to require later overlays:
 - deep manufacturing businesses
 - multi-country compliance-heavy businesses
 
-That is acceptable for v2.
+That is acceptable for the current system.
 
 ---
 
 ## 10. Recommended Next Step
 
-To make v2 usable, the next documents should be:
+To make the current system usable, the next documents should be:
 
-1. artifact map v2
+1. artifact map
 2. standard module spec template
 3. question bank v1
 4. evidence rubric v1

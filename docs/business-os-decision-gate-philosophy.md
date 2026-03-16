@@ -1,4 +1,4 @@
-# Business OS Decision Gate Philosophy v2
+# Business OS Decision Gate Philosophy
 
 Status: Revised draft
 Purpose: Define how the Business OS should apply judgment in version 2, including the added areas of finance, retention, experimentation, SaaS, and local-service logic.
@@ -6,7 +6,7 @@ Purpose: Define how the Business OS should apply judgment in version 2, includin
 Related:
 
 - [business-os-decision-gate-philosophy-v1.md](./deprecated/business-os-decision-gate-philosophy-v1.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
+- [business-os-module-map.md](./business-os-module-map.md)
 
 ---
 
@@ -24,7 +24,7 @@ Version 2 keeps the same five gate outcomes:
 
 ---
 
-## 2. What v2 Adds
+## 2. What The Current System Adds
 
 Compared with v1, decision gates should now more explicitly judge:
 
@@ -92,7 +92,7 @@ Version 2 should also pay more attention to whether evidence is:
 
 ---
 
-## 5. v2 Gate Rules
+## 5. Gate Rules
 
 ### Rule 1: Pricing Before Channels
 
@@ -171,7 +171,7 @@ Acceptable outcomes:
 
 ---
 
-## 7. Module-Level Additions In v2
+## 7. Module-Level Additions
 
 ### M17 Financial Planning And Capital Allocation
 
@@ -219,7 +219,7 @@ Every major gated decision should end with:
 
 ---
 
-## 9. Chitr In v2
+## 9. Chitr In The Current System
 
 For Chitr, the gate improvements matter mainly in:
 

@@ -25,7 +25,7 @@ Do not use this skill when:
 
 ## Core Workflow
 
-Run the `Evaluate Expansion / New Category` workflow from the active `v2` docs.
+Run the `Evaluate Expansion / New Category` workflow from the canonical Business OS docs.
 
 ### Stage Order
 
@@ -48,15 +48,15 @@ Run the `Evaluate Expansion / New Category` workflow from the active `v2` docs.
 
 Load these as needed:
 
-- `/home/darko/Code/chitr/docs/business-os-workflow-evaluate-expansion-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-module-spec-o07-expansion-smoke-test-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-artifact-templates-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-evidence-rubric-v2.md`
-- `/home/darko/Code/chitr/docs/business-os-question-bank-v2.md`
+- `/home/darko/Code/chitr/docs/business-os-workflow-evaluate-expansion.md`
+- `/home/darko/Code/chitr/docs/business-os-module-spec-o07-expansion-smoke-test.md`
+- `/home/darko/Code/chitr/docs/business-os-artifact-templates.md`
+- `/home/darko/Code/chitr/docs/business-os-evidence-rubric.md`
+- `/home/darko/Code/chitr/docs/business-os-question-bank.md`
 
 Also load:
 
-- `/home/darko/Code/chitr/docs/business-os-module-map-v2.md`
+- `/home/darko/Code/chitr/docs/business-os-module-map.md`
 
 when you need to route into finance, operations, sourcing, marketplaces, or experiment design.
 

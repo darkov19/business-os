@@ -1,14 +1,14 @@
-# Business OS Artifact Templates v2
+# Business OS Artifact Templates
 
 Status: Implementation template set
 Purpose: Define the standard structure for Business OS artifacts so outputs remain consistent across modules, workflows, and future skills.
 
 Related:
 
-- [business-os-artifact-map-v2.md](./business-os-artifact-map-v2.md)
-- [business-os-module-spec-template-v2.md](./business-os-module-spec-template-v2.md)
-- [business-os-module-spec-m05-customer-research-v2.md](./business-os-module-spec-m05-customer-research-v2.md)
-- [business-os-module-spec-o07-expansion-smoke-test-v2.md](./business-os-module-spec-o07-expansion-smoke-test-v2.md)
+- [business-os-artifact-map.md](./business-os-artifact-map.md)
+- [business-os-module-spec-template.md](./business-os-module-spec-template.md)
+- [business-os-module-spec-m05-customer-research.md](./business-os-module-spec-m05-customer-research.md)
+- [business-os-module-spec-o07-expansion-smoke-test.md](./business-os-module-spec-o07-expansion-smoke-test.md)
 
 ---
 
@@ -782,6 +782,6 @@ After artifact templates, the next useful implementation documents are:
 
 The best next one is likely:
 
-- `business-os-evidence-rubric-v2.md`
+- `business-os-evidence-rubric.md`
 
 because evidence quality controls both module decisions and artifact confidence.

@@ -1,13 +1,13 @@
-# Business OS Evidence Rubric v2
+# Business OS Evidence Rubric
 
 Status: Implementation document
 Purpose: Define how the Business OS should evaluate evidence quality, confidence, and readiness so modules and artifacts use a consistent standard when making recommendations or passing decision gates.
 
 Related:
 
-- [business-os-decision-gate-philosophy-v2.md](./business-os-decision-gate-philosophy-v2.md)
-- [business-os-module-spec-template-v2.md](./business-os-module-spec-template-v2.md)
-- [business-os-artifact-templates-v2.md](./business-os-artifact-templates-v2.md)
+- [business-os-decision-gate-philosophy.md](./business-os-decision-gate-philosophy.md)
+- [business-os-module-spec-template.md](./business-os-module-spec-template.md)
+- [business-os-artifact-templates.md](./business-os-artifact-templates.md)
 
 ---
 
@@ -474,6 +474,6 @@ This shows how the same business can have different evidence levels in different
 
 After the evidence rubric, the best next implementation document is:
 
-- `business-os-question-bank-v2.md`
+- `business-os-question-bank.md`
 
 That will let the router and module workflows ask more consistent questions across intents and business types.

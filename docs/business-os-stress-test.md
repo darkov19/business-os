@@ -1,12 +1,12 @@
-# Business OS Stress Test v2
+# Business OS Stress Test
 
 Status: Draft review
-Purpose: Re-test the revised Business OS architecture after the v2 changes to verify whether the new module and overlay set covers Chitr and representative business archetypes more completely.
+Purpose: Re-test the revised Business OS architecture after the major architecture revision to verify whether the current module and overlay set covers Chitr and representative business archetypes more completely.
 
 Related:
 
 - [business-os-stress-test-v1.md](./deprecated/business-os-stress-test-v1.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
+- [business-os-module-map.md](./business-os-module-map.md)
 
 ---
 

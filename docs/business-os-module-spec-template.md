@@ -1,14 +1,14 @@
-# Business OS Module Spec Template v2
+# Business OS Module Spec Template
 
 Status: Implementation template
 Purpose: Define the standard structure every Business OS module should use so modules are consistent, AI-runnable, and easy to convert into skills, workflows, and reusable business-building components.
 
 Related:
 
-- [business-os-framework-v2.md](./business-os-framework-v2.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
-- [business-os-decision-gate-philosophy-v2.md](./business-os-decision-gate-philosophy-v2.md)
-- [business-os-bmad-v6-research-v1.md](./business-os-bmad-v6-research-v1.md)
+- [business-os-framework.md](./business-os-framework.md)
+- [business-os-module-map.md](./business-os-module-map.md)
+- [business-os-decision-gate-philosophy.md](./business-os-decision-gate-philosophy.md)
+- [business-os-bmad-research.md](./business-os-bmad-research.md)
 
 ---
 
@@ -80,7 +80,7 @@ Use the following structure for every module spec.
 
 Status: Draft / Active
 Type: Core / Overlay / Control
-Version: v2
+Version: current
 Owner: Business OS
 
 ## 1. Purpose
@@ -387,7 +387,7 @@ Examples:
 
 Every module spec should explicitly reference:
 
-- the evidence levels from [business-os-decision-gate-philosophy-v2.md](./business-os-decision-gate-philosophy-v2.md)
+- the evidence levels from [business-os-decision-gate-philosophy.md](./business-os-decision-gate-philosophy.md)
 - the standard gate outcomes
 
 Minimum expectation:

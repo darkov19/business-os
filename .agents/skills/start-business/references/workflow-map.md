@@ -2,10 +2,10 @@
 
 Use:
 
-- `business-os-workflow-start-from-scratch-v2.md` as the main process
-- `business-os-question-bank-v2.md` for question selection
-- `business-os-evidence-rubric-v2.md` for confidence and gate discipline
-- `business-os-artifact-templates-v2.md` for output shape
+- `business-os-workflow-start-from-scratch.md` as the main process
+- `business-os-question-bank.md` for question selection
+- `business-os-evidence-rubric.md` for confidence and gate discipline
+- `business-os-artifact-templates.md` for output shape
 
 Primary outputs:
 

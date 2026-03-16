@@ -1,15 +1,15 @@
-# Business OS Workflow: Evaluate Expansion / New Category v2
+# Business OS Workflow: Evaluate Expansion / New Category
 
 Status: Draft workflow spec
 Purpose: Define the end-to-end workflow the Business OS should use when a user wants to evaluate adding a new category, product line, service line, channel, geography, or adjacent business opportunity inside an existing business.
 
 Related:
 
-- [business-os-framework-v2.md](./business-os-framework-v2.md)
-- [business-os-intent-map-v2.md](./business-os-intent-map-v2.md)
-- [business-os-module-map-v2.md](./business-os-module-map-v2.md)
-- [business-os-module-spec-o07-expansion-smoke-test-v2.md](./business-os-module-spec-o07-expansion-smoke-test-v2.md)
-- [business-os-workflow-pivot-existing-business-v2.md](./business-os-workflow-pivot-existing-business-v2.md)
+- [business-os-framework.md](./business-os-framework.md)
+- [business-os-intent-map.md](./business-os-intent-map.md)
+- [business-os-module-map.md](./business-os-module-map.md)
+- [business-os-module-spec-o07-expansion-smoke-test.md](./business-os-module-spec-o07-expansion-smoke-test.md)
+- [business-os-workflow-pivot-existing-business.md](./business-os-workflow-pivot-existing-business.md)
 
 ---
 

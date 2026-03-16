@@ -2,11 +2,11 @@
 
 Use:
 
-- `business-os-workflow-evaluate-expansion-v2.md` as the main process
-- `business-os-module-spec-o07-expansion-smoke-test-v2.md` for module-level behavior
-- `business-os-question-bank-v2.md` for question selection
-- `business-os-evidence-rubric-v2.md` for confidence and gate discipline
-- `business-os-artifact-templates-v2.md` for output shape
+- `business-os-workflow-evaluate-expansion.md` as the main process
+- `business-os-module-spec-o07-expansion-smoke-test.md` for module-level behavior
+- `business-os-question-bank.md` for question selection
+- `business-os-evidence-rubric.md` for confidence and gate discipline
+- `business-os-artifact-templates.md` for output shape
 
 Primary outputs:
 
