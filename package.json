@@ -2,6 +2,24 @@
   "name": "business-os",
   "version": "0.3.0",
   "description": "Business OS installer, docs, and workflow package",
+  "homepage": "https://github.com/darkov19/business-os#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkov19/business-os.git"
+  },
+  "bugs": {
+    "url": "https://github.com/darkov19/business-os/issues"
+  },
+  "keywords": [
+    "business",
+    "workflow",
+    "ai",
+    "codex",
+    "claude-code",
+    "bmad",
+    "planning",
+    "strategy"
+  ],
   "type": "module",
   "bin": {
     "business-os": "bin/business-os.js"
