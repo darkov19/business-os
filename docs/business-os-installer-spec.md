@@ -23,11 +23,13 @@ Behavior:
 Supported options:
 
 - `--target codex|claude|both`
-- `--profile core|full`
+- `--profile core|full|custom`
+- `--components comma,separated,ids`
 - `--project PATH`
 - `--no-docs`
 - `--force`
 - `--yes`
+- `--plan`
 - `--dry-run`
 
 Interactive behavior:
@@ -35,7 +37,8 @@ Interactive behavior:
 - if running in a TTY without `--yes`, installer should guide the user through:
   - project path
   - target IDE mode
-  - workflow profile
+  - install mode
+  - custom component selection when needed
   - docs install yes/no
   - install confirmation
 
@@ -115,9 +118,11 @@ Initial fields:
   "project": "/abs/path",
   "target": "both",
   "profile": "full",
+  "selectedComponents": [],
   "docsInstalled": true,
   "codexSkills": [],
-  "claudeCommands": []
+  "claudeCommands": [],
+  "overrideDir": ".business-os/_cfg"
 }
 ```
 
@@ -130,8 +135,26 @@ Installer should:
 - never silently overwrite installed files unless `--force` or `update` is used
 - validate target mode before install
 - validate profile mode before install
+- require explicit components for `custom` profile in noninteractive mode
 - fail clearly if no manifest exists for `update`
 - remain dependency-light and use Node built-ins where possible
+
+### Override Folder
+
+Installer should scaffold:
+
+- `.business-os/_cfg/README.md`
+- `.business-os/_cfg/local-notes.md`
+
+These files are user-owned and should not be overwritten by update.
+
+### Diff Preview
+
+`--plan` should:
+
+- print file-action summary by area
+- show changed paths without writing files
+- behave as a dry-run
 
 ---
 
@@ -146,3 +169,5 @@ Before publishing the package:
 5. verify `doctor` output is correct
 6. verify `update` works after a first install
 7. verify interactive install path works in a TTY
+8. verify custom component install works
+9. verify `_cfg` files are preserved on update

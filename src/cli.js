@@ -8,14 +8,15 @@ function printHelp() {
   console.log(`Business OS CLI
 
 Usage:
-  business-os install [--target codex|claude|both] [--profile core|full] [--project PATH] [--no-docs] [--force] [--yes] [--dry-run]
+  business-os install [--target codex|claude|both] [--profile core|full|custom] [--components LIST] [--project PATH] [--no-docs] [--force] [--yes] [--plan] [--dry-run]
   business-os doctor [--project PATH]
-  business-os update [--project PATH] [--dry-run]
+  business-os update [--project PATH] [--plan] [--dry-run]
 
 Examples:
   business-os install
   business-os install --target codex
   business-os install --profile core --yes
+  business-os install --profile custom --components saas,local-service
   business-os doctor
   business-os update
 
@@ -31,15 +32,18 @@ function parseArgs(argv) {
     project: process.cwd(),
     target: DEFAULT_TARGET,
     profile: DEFAULT_PROFILE,
+    components: [],
     docs: true,
     force: false,
     dryRun: false,
+    plan: false,
     yes: false,
     interactive: undefined,
     explicit: {
       project: false,
       target: false,
       profile: false,
+      components: false,
       docs: false
     }
   };
@@ -59,6 +63,13 @@ function parseArgs(argv) {
       args.profile = argv[index + 1];
       index += 1;
       args.explicit.profile = true;
+    } else if (value === "--components") {
+      args.components = argv[index + 1]
+        .split(",")
+        .map((entry) => entry.trim())
+        .filter(Boolean);
+      index += 1;
+      args.explicit.components = true;
     } else if (value === "--no-docs") {
       args.docs = false;
       args.explicit.docs = true;
@@ -70,6 +81,9 @@ function parseArgs(argv) {
     } else if (value === "--force") {
       args.force = true;
     } else if (value === "--dry-run") {
+      args.dryRun = true;
+    } else if (value === "--plan") {
+      args.plan = true;
       args.dryRun = true;
     } else if (value === "--help" || value === "-h") {
       args.command = "help";

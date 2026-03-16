@@ -51,6 +51,7 @@ project/
   .business-os/
     docs/
     install-manifest.json
+    _cfg/
   .agents/
     skills/
   .claude/
@@ -58,6 +59,8 @@ project/
 ```
 
 The `.business-os/docs` folder acts as the locked baseline reference.
+
+The `.business-os/_cfg` folder acts as the local customization layer.
 
 The live execution layers remain:
 
@@ -80,6 +83,8 @@ Suggested manifest fields:
 - version
 - installed timestamp
 - target IDE mode
+- profile
+- selected component ids
 - docs installed yes/no
 - installed skill list
 - installed command list
@@ -115,11 +120,13 @@ business-os update
 Recommended first options:
 
 - `--target codex|claude|both`
-- `--profile core|full`
+- `--profile core|full|custom`
+- `--components comma,separated,ids`
 - `--project PATH`
 - `--no-docs`
 - `--force`
 - `--yes`
+- `--plan`
 - `--dry-run`
 
 ---
@@ -141,10 +148,16 @@ This is an installer scaffold, not a fully hardened release system yet.
 
 ## 8. Next Hardening Steps
 
-To make this production-ready:
+Current hardening now covers:
 
-1. add a release note and package-release workflow
-2. test install into a clean sample project
-3. add dry-run and overwrite messaging polish
-4. add override-safe customization support
-5. publish the package and test `npx business-os install`
+1. release note and package-release workflow
+2. clean sample-project installs
+3. richer install planning output
+4. override-safe customization scaffolding
+5. local tarball install validation
+
+Next hardening steps:
+
+1. add a richer visual installer if needed
+2. add diff-merge support for changed shipped files
+3. publish the package and test live `npx business-os install`

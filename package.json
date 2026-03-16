@@ -1,6 +1,6 @@
 {
   "name": "business-os",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Business OS installer, docs, and workflow package",
   "type": "module",
   "bin": {
@@ -25,6 +25,8 @@
     "doctor": "node ./bin/business-os.js doctor",
     "update:local": "node ./bin/business-os.js update",
     "pack:check": "npm pack --dry-run",
-    "publish:check": "npm publish --dry-run"
+    "publish:check": "npm publish --dry-run",
+    "release:pack": "npm pack --json --pack-destination /tmp/business-os-pack",
+    "release:publish:dry-run": "npm publish --dry-run"
   }
 }

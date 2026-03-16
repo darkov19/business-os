@@ -10,7 +10,7 @@ Purpose: Define the release path for making `npx business-os install` available.
 Before publishing:
 
 - package version is updated in [package.json](/home/darko/Code/chitr/package.json)
-- release note exists, such as [business-os-release-v0.2.0.md](/home/darko/Code/chitr/docs/business-os-release-v0.2.0.md)
+- release note exists, such as [business-os-release-v0.3.0.md](/home/darko/Code/chitr/docs/business-os-release-v0.3.0.md)
 - `npm pack --json` succeeds
 - `npm publish --dry-run` succeeds
 - install from the generated tarball succeeds in a clean sample project
@@ -33,7 +33,7 @@ Run:
 ```bash
 npm pack --json --pack-destination /tmp/business-os-pack
 npm publish --dry-run
-tar -tf /tmp/business-os-pack/business-os-0.2.0.tgz | head -n 50
+tar -tf /tmp/business-os-pack/business-os-0.3.0.tgz | head -n 50
 ```
 
 Then test install from tarball:
@@ -42,7 +42,7 @@ Then test install from tarball:
 mkdir -p /tmp/business-os-install-test
 cd /tmp/business-os-install-test
 npm init -y
-npm install /tmp/business-os-pack/business-os-0.2.0.tgz
+npm install /tmp/business-os-pack/business-os-0.3.0.tgz
 npx business-os install --yes --project /tmp/business-os-install-test
 ```
 
@@ -52,9 +52,9 @@ Recommended sequence:
 
 ```bash
 git status
-git tag business-os-v0.2.0
+git tag business-os-v0.3.0
 git push origin main
-git push origin business-os-v0.2.0
+git push origin business-os-v0.3.0
 ```
 
 If you publish from GitHub Actions, tag push should be the release trigger.
@@ -71,8 +71,8 @@ npm publish
 After publish, verify:
 
 ```bash
-npx business-os@0.2.0 --help
-npx business-os@0.2.0 install --yes --project /tmp/business-os-postpublish
+npx business-os@0.3.0 --help
+npx business-os@0.3.0 install --yes --project /tmp/business-os-postpublish
 ```
 
 ## 6. CI Publish Flow
@@ -93,4 +93,5 @@ After a successful publish:
 - verify Codex skills land in `.agents/skills`
 - verify Claude commands land in `.claude/commands`
 - verify `.business-os/install-manifest.json` has the expected version and profile
+- verify `.business-os/_cfg` exists and was preserved
 - update the next release note target

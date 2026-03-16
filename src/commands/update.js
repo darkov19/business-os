@@ -19,6 +19,7 @@ export async function runUpdate(options) {
     project: projectRoot,
     target: manifest.target || "both",
     profile: manifest.profile || "full",
+    components: manifest.selectedComponents || [],
     docs: manifest.docsInstalled !== false,
     force: true
   });

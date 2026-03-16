@@ -1,6 +1,6 @@
 import fs from "node:fs/promises";
 import path from "node:path";
-import { FULL_CLAUDE_COMMANDS, FULL_CODEX_SKILLS, INSTALL_DIR } from "../config.js";
+import { INSTALL_DIR, resolveSelection } from "../config.js";
 import { pathExists } from "../lib/fs.js";
 
 export async function runDoctor(options) {
@@ -18,13 +18,17 @@ export async function runDoctor(options) {
     console.log(`Installed version: ${manifest.version}`);
     console.log(`Installed target: ${manifest.target}`);
     console.log(`Installed profile: ${manifest.profile || "full"}`);
+    if (Array.isArray(manifest.selectedComponents) && manifest.selectedComponents.length > 0) {
+      console.log(`Selected components: ${manifest.selectedComponents.join(", ")}`);
+    }
     console.log(`Docs installed: ${manifest.docsInstalled ? "yes" : "no"}`);
   }
 
   const codexRoot = path.join(projectRoot, ".agents", "skills");
   const claudeRoot = path.join(projectRoot, ".claude", "commands");
-  const expectedCodex = manifest?.codexSkills || FULL_CODEX_SKILLS;
-  const expectedClaude = manifest?.claudeCommands || FULL_CLAUDE_COMMANDS;
+  const fallbackSelection = resolveSelection("full", []);
+  const expectedCodex = manifest?.codexSkills || fallbackSelection.codexSkills;
+  const expectedClaude = manifest?.claudeCommands || fallbackSelection.claudeCommands;
 
   let installedCodex = 0;
   for (const skill of expectedCodex) {

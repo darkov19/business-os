@@ -23,15 +23,31 @@ node ./bin/business-os.js install
 ## Commands
 
 ```bash
-business-os install [--target codex|claude|both] [--profile core|full] [--project PATH] [--no-docs] [--force] [--yes] [--dry-run]
+business-os install [--target codex|claude|both] [--profile core|full|custom] [--components LIST] [--project PATH] [--no-docs] [--force] [--yes] [--plan] [--dry-run]
 business-os doctor [--project PATH]
-business-os update [--project PATH] [--dry-run]
+business-os update [--project PATH] [--plan] [--dry-run]
 ```
 
 ## Profiles
 
 - `core`: router plus the main start, pivot, launch, growth, and expansion workflows
 - `full`: core plus specialist SaaS, local-service, partner-channel, and premium-D2C workflows
+- `custom`: choose exactly which Business OS components to install
+
+## Overrides
+
+Project-local override files live in `.business-os/_cfg`.
+
+- installer scaffolds this folder automatically
+- update should preserve files you edit there
+- use it for project-specific notes and future override experiments
+
+## Planning
+
+Use `--plan` to preview file actions before writing anything.
+
+- install preview: `business-os install --plan`
+- update preview: `business-os update --plan`
 
 ## Package Notes
 

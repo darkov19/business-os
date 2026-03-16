@@ -60,6 +60,8 @@ Use these to build skills and workflows:
 9. [business-os-release-v0.2.0.md](./business-os-release-v0.2.0.md)
 10. [business-os-publish-flow.md](./business-os-publish-flow.md)
 11. [business-os-package-validation-v0.2.0.md](./business-os-package-validation-v0.2.0.md)
+12. [business-os-release-v0.3.0.md](./business-os-release-v0.3.0.md)
+13. [business-os-package-validation-v0.3.0.md](./business-os-package-validation-v0.3.0.md)
 
 ## Archive
 
