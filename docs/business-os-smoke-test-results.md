@@ -148,7 +148,7 @@ It is an adjacency decision with strategic, sourcing, and financial implications
 
 ### What Still Feels Thin
 
-- distributor and partner expansion still lacks a dedicated workflow or execution skill even though the overlay depth is now clearer
+- distributor and partner expansion still needs deeper contract and multi-region execution detail, even though the rollout workflow now exists
 
 ---
 

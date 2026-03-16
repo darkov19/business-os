@@ -79,6 +79,7 @@ Context-aware workflow preference:
 - if the context is `SaaS / digital product`, prefer `$saas-digital-product`
 - if the context is `local service`, prefer `$local-service-business`
 - if the user is asking specifically about indirect channels, partners, wholesale, or distributors, prefer `$distributor-wholesale-readiness`
+- if the user is asking about onboarding, governing, or scaling existing partner channels, prefer `$partner-channel-rollout`
 - if the user is asking specifically about premium D2C ecommerce conversion or launch readiness, prefer `$premium-d2c-launch-commerce`
 
 If the right workflow does not yet have a dedicated skill, route using the canonical workflow and module docs directly.

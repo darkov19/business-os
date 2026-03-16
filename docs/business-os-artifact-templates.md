@@ -790,7 +790,44 @@ Source Module: O16 Premium D2C Launch Commerce
 
 ---
 
-## 7.16 Business Master Dossier Template
+## 7.16 Partner Channel Rollout Plan Template
+
+```md
+# Partner Channel Rollout Plan
+
+Status:
+Date:
+Owner:
+Source Workflow: Partner Channel Rollout
+
+## 1. Purpose
+
+## 2. Channel Rollout Summary
+
+## 3. Partner Scope And Territory Rules
+
+## 4. Pricing, Payment, And Stock Rules
+
+## 5. Onboarding And Support Model
+
+## 6. Channel Conflict And Governance Rules
+
+## 7. Performance, Reorder, And Collections Review Logic
+
+## 8. Evidence Used
+
+## 9. Assumptions
+
+## 10. Recommendation
+
+## 11. Open Questions
+
+## 12. Next Steps
+```
+
+---
+
+## 7.17 Business Master Dossier Template
 
 ```md
 # Business Master Dossier

@@ -51,10 +51,12 @@ Steps:
    - `/saas-digital-product`
    - `/local-service-business`
    - `/distributor-wholesale-readiness`
+   - `/partner-channel-rollout`
    - `/premium-d2c-launch-commerce`
    If the context is SaaS / digital product, prefer `/saas-digital-product`.
    If the context is local service, prefer `/local-service-business`.
    If the user is asking about distributors or wholesale, prefer `/distributor-wholesale-readiness`.
+   If the user is asking about onboarding, governing, or scaling existing partner channels, prefer `/partner-channel-rollout`.
    If the user is asking about premium D2C ecommerce conversion, prefer `/premium-d2c-launch-commerce`.
    Otherwise recommend the right canonical workflow doc and next modules.
 

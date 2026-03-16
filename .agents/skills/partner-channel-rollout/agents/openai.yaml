@@ -1,0 +1,4 @@
+interface:
+  display_name: "Partner Channel Rollout"
+  short_description: "Rolls out wholesale and partner channels."
+  default_prompt: "Use $partner-channel-rollout to build a controlled distributor, wholesale, or reseller rollout plan."

@@ -44,6 +44,7 @@ Use these to build skills and workflows:
 5. [business-os-workflow-evaluate-expansion.md](./business-os-workflow-evaluate-expansion.md)
 6. [business-os-workflow-saas-digital-product.md](./business-os-workflow-saas-digital-product.md)
 7. [business-os-workflow-local-service.md](./business-os-workflow-local-service.md)
+8. [business-os-workflow-partner-channel-rollout.md](./business-os-workflow-partner-channel-rollout.md)
 
 ## Supporting Notes
 

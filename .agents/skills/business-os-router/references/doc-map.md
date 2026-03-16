@@ -27,6 +27,7 @@ Use the canonical Business OS docs from `/home/darko/Code/chitr/docs`.
 - `business-os-workflow-evaluate-expansion.md`
 - `business-os-workflow-saas-digital-product.md`
 - `business-os-workflow-local-service.md`
+- `business-os-workflow-partner-channel-rollout.md`
 
 ## Worked Modules
 
@@ -40,6 +41,7 @@ Use the canonical Business OS docs from `/home/darko/Code/chitr/docs`.
 - `saas-digital-product`
 - `local-service-business`
 - `distributor-wholesale-readiness`
+- `partner-channel-rollout`
 - `premium-d2c-launch-commerce`
 
 ## Routing Rule

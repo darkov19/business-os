@@ -7,6 +7,7 @@ Related:
 
 - [business-os-workflow-saas-digital-product.md](./business-os-workflow-saas-digital-product.md)
 - [business-os-workflow-local-service.md](./business-os-workflow-local-service.md)
+- [business-os-workflow-partner-channel-rollout.md](./business-os-workflow-partner-channel-rollout.md)
 - [business-os-module-spec-o05-distributor-wholesale-readiness.md](./business-os-module-spec-o05-distributor-wholesale-readiness.md)
 - [business-os-module-spec-o16-premium-d2c-launch-commerce.md](./business-os-module-spec-o16-premium-d2c-launch-commerce.md)
 
@@ -31,7 +32,8 @@ Each test checks:
 | --- | --- | --- |
 | `saas-digital-product` | New B2B AI SaaS idea | Strong |
 | `local-service-business` | New city-based home service | Strong |
-| `distributor-wholesale-readiness` | Premium decor brand considering dealers | Strong-Partial |
+| `distributor-wholesale-readiness` | Premium decor brand considering dealers | Strong |
+| `partner-channel-rollout` | Early partner rollout needing governance | Strong |
 | `premium-d2c-launch-commerce` | Premium visual brand preparing ecommerce launch | Strong |
 
 ---
@@ -111,16 +113,43 @@ Each test checks:
 
 ### What Still Feels Thin
 
-- there is still no dedicated workflow that connects partner readiness to ongoing channel management after entry
-- contract, exclusivity, and field-execution details are not yet deep enough for later-stage channel operations
+- contract, exclusivity, and field-execution details can still go deeper for later-stage channel operations
 
 ### Result
 
-- Strong-Partial
+- Strong
 
 ---
 
-## 6. Premium D2C Launch Commerce
+## 6. Partner Channel Rollout
+
+### Prompt
+
+`We have decided to test dealer partners for our decor brand. I need a rollout system for onboarding, territory, reorder discipline, payment follow-up, and direct-versus-partner conflict.`
+
+### Expected Route
+
+- Skill: [partner-channel-rollout](/home/darko/Code/chitr/.agents/skills/partner-channel-rollout/SKILL.md)
+- Workflow: [business-os-workflow-partner-channel-rollout.md](./business-os-workflow-partner-channel-rollout.md)
+
+### What Feels Strong
+
+- the skill directly covers the missing post-entry execution layer
+- it forces onboarding, support, conflict rules, reorder health, and collections into the rollout
+- it gives the wholesale path a real operating system instead of only a go/no-go memo
+
+### What Still Feels Thin
+
+- legal agreement details are still outside the current scope
+- later-stage multi-region partner governance could still use deeper templates
+
+### Result
+
+- Strong
+
+---
+
+## 7. Premium D2C Launch Commerce
 
 ### Prompt
 
@@ -148,30 +177,30 @@ Each test checks:
 
 ---
 
-## 7. Main Findings
+## 8. Main Findings
 
 The new specialist skill layer is materially better than the previous state because:
 
 - SaaS now has a dedicated workflow and skill
 - local service now has a dedicated workflow and skill
 - distributor readiness is no longer buried as a note
+- partner-channel rollout now covers post-entry execution instead of only readiness
 - premium D2C launch-commerce is now a first-class evaluation path
 
 The main remaining gap is not coverage. It is execution depth after diagnosis:
 
-- more post-entry channel-management depth for wholesale / distribution
 - more detailed asset and checklist depth for premium D2C launch-commerce
 - more field-ops detail for local service execution
 - stronger compliance boundaries for regulated SaaS contexts
 
 ---
 
-## 8. Recommendation
+## 9. Recommendation
 
 The next best move is not more broad architecture.
 
 The next best move is to test these skills on live Chitr and non-Chitr prompts and then add:
 
 1. one execution-depth skill for premium D2C launch assets or conversion audit
-2. one execution-depth skill for partner-channel rollout
+2. stronger regulated-SaaS boundary guidance
 3. one real end-to-end router test pass across mixed prompts
