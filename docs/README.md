@@ -30,6 +30,7 @@ Use these to build skills and workflows:
 3. [business-os-module-spec-m17-financial-planning-capital-allocation.md](./business-os-module-spec-m17-financial-planning-capital-allocation.md)
 4. [business-os-module-spec-o07-expansion-smoke-test.md](./business-os-module-spec-o07-expansion-smoke-test.md)
 5. [business-os-module-spec-o10-saas-digital-product.md](./business-os-module-spec-o10-saas-digital-product.md)
+6. [business-os-module-spec-o11-local-service-operations.md](./business-os-module-spec-o11-local-service-operations.md)
 
 ## Workflow Specs
 

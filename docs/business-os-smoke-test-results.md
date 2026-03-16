@@ -227,7 +227,7 @@ The user is still defining the business from zero, even though later they will n
 ### What Still Feels Thin
 
 - no dedicated local-service launch workflow yet
-- no worked overlay spec yet for local service operations
+- local-service depth still lacks a dedicated workflow even though the overlay direction is now clearer
 - service recovery and booking system outputs need more implementation depth
 
 ### Result
@@ -258,7 +258,7 @@ The system is usable but still thinner for:
 Based on this smoke test, the best next documents or skills are:
 
 1. SaaS-specific workflow
-2. local-service overlay spec
+2. local-service workflow
 3. deep import / sourcing execution spec
 4. launch-commerce specifics for premium D2C brands
 5. more worked modules in retention, operations, or sourcing as needed
