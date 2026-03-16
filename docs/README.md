@@ -50,6 +50,8 @@ Use these to build skills and workflows:
 1. [business-os-bmad-research.md](./business-os-bmad-research.md)
 2. [business-os-stress-test.md](./business-os-stress-test.md)
 3. [business-os-gap-resolution.md](./business-os-gap-resolution.md)
+4. [business-os-smoke-test-results.md](./business-os-smoke-test-results.md)
+5. [business-os-specialist-skill-smoke-tests.md](./business-os-specialist-skill-smoke-tests.md)
 
 ## Archive
 

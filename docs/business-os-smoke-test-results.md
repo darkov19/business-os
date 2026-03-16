@@ -74,7 +74,7 @@ They are trying to prepare a defined product line for launch.
 
 ### What Still Feels Thin
 
-- premium D2C launch-commerce still lacks a dedicated workflow or skill even though the overlay is now clearer
+- premium D2C launch-commerce still lacks a full end-to-end workflow beyond the launch workflow plus overlay combination
 
 ---
 
@@ -184,9 +184,8 @@ The user is still at business-foundation stage, even though the business type is
 
 ### What Still Feels Thin
 
-- SaaS-specific depth still lacks a dedicated workflow even though the overlay direction is now clearer
-- no dedicated SaaS launch or SaaS validation workflow exists yet
 - regulated domain concerns like clinics / healthcare are outside the current system boundary
+- dedicated SaaS launch-readiness artifacts could still be sharper
 
 ### Result
 
@@ -224,9 +223,8 @@ The user is still defining the business from zero, even though later they will n
 
 ### What Still Feels Thin
 
-- no dedicated local-service launch workflow yet
-- local-service depth still lacks a dedicated workflow even though the overlay direction is now clearer
 - service recovery and booking system outputs need more implementation depth
+- local acquisition execution patterns could still be deeper
 
 ### Result
 
@@ -244,10 +242,10 @@ The system already feels strong for:
 
 The system is usable but still thinner for:
 
-- SaaS-specific workflows
-- local-service-specific workflows
-- deep import / sourcing execution
-- launch-commerce specifics for premium D2C brands
+- post-entry channel execution depth
+- premium D2C conversion-asset depth
+- local-service field-execution depth
+- regulated SaaS boundary handling
 
 ---
 
@@ -256,10 +254,10 @@ The system is usable but still thinner for:
 Based on this smoke test, the best next documents or skills are:
 
 1. more worked modules in retention, operations, or channel execution as needed
-2. premium D2C launch-commerce workflow or skill
+2. premium D2C asset or conversion-audit depth
 3. distributor and partner execution workflow or skill
-4. SaaS workflow skill
-5. local-service workflow skill
+4. local-service field-operations depth
+5. stronger regulated-SaaS boundary guidance
 
 ---
 
