@@ -228,8 +228,8 @@ The main remaining gap is not coverage. It is execution depth after diagnosis:
 
 The next best move is not more broad architecture.
 
-The next best move is to test these skills on live Chitr and non-Chitr prompts and then add:
+The next best move is to use the router and specialist skills in live sessions and then add:
 
 1. stronger regulated-SaaS boundary guidance
-2. one real end-to-end router test pass across mixed prompts
-3. optional asset-pack or checklist layer for premium D2C audits
+2. optional asset-pack or checklist layer for premium D2C audits
+3. more field-execution depth where the live prompts expose it

@@ -54,6 +54,7 @@ Use these to build skills and workflows:
 3. [business-os-gap-resolution.md](./business-os-gap-resolution.md)
 4. [business-os-smoke-test-results.md](./business-os-smoke-test-results.md)
 5. [business-os-specialist-skill-smoke-tests.md](./business-os-specialist-skill-smoke-tests.md)
+6. [business-os-router-smoke-tests.md](./business-os-router-smoke-tests.md)
 
 ## Archive
 
