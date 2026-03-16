@@ -257,11 +257,11 @@ The system is usable but still thinner for:
 
 Based on this smoke test, the best next documents or skills are:
 
-1. worked module spec for `M09 Costing, Pricing, And Unit Economics`
-2. worked module spec for `M17 Financial Planning And Capital Allocation`
-3. workflow for `Improve Sales Or Marketing`
-4. SaaS-specific workflow or overlay spec
-5. local-service overlay spec
+1. SaaS-specific workflow or overlay spec
+2. local-service overlay spec
+3. deep import / sourcing execution spec
+4. launch-commerce specifics for premium D2C brands
+5. more worked modules in retention, operations, or sourcing as needed
 
 ---
 
