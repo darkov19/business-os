@@ -1,0 +1,24 @@
+{
+  "name": "business-os",
+  "version": "0.1.0",
+  "description": "Business OS installer and workflow package",
+  "type": "module",
+  "bin": {
+    "business-os": "./bin/business-os.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "files": [
+    "bin",
+    "src",
+    "docs",
+    ".agents/skills",
+    ".claude/commands"
+  ],
+  "scripts": {
+    "install:local": "node ./bin/business-os.js install",
+    "doctor": "node ./bin/business-os.js doctor",
+    "update:local": "node ./bin/business-os.js update"
+  }
+}

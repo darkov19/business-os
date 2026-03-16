@@ -8,3 +8,5 @@
 .gemini/
 _bmad/
 _bmad-output/
+node_modules/
+.business-os/
