@@ -35,6 +35,7 @@ Each test checks:
 | `distributor-wholesale-readiness` | Premium decor brand considering dealers | Strong |
 | `partner-channel-rollout` | Early partner rollout needing governance | Strong |
 | `premium-d2c-launch-commerce` | Premium visual brand preparing ecommerce launch | Strong |
+| `premium-d2c-conversion-audit` | Premium D2C site needing conversion fixes | Strong |
 
 ---
 
@@ -177,7 +178,35 @@ Each test checks:
 
 ---
 
-## 8. Main Findings
+## 8. Premium D2C Conversion Audit
+
+### Prompt
+
+`We are about to drive traffic to our premium wall art site. I need a structured conversion audit of the collection pages, PDPs, trust gaps, and whether we should stay self-serve or go assisted first.`
+
+### Expected Route
+
+- Skill: [premium-d2c-conversion-audit](/home/darko/Code/chitr/.agents/skills/premium-d2c-conversion-audit/SKILL.md)
+- Workflow: [business-os-workflow-premium-d2c-conversion-audit.md](./business-os-workflow-premium-d2c-conversion-audit.md)
+
+### What Feels Strong
+
+- the skill covers the missing execution layer after premium launch-commerce diagnosis
+- it turns the premium D2C path into a fix-order workflow rather than only a readiness memo
+- it is directly useful for Chitr-like launch audits
+
+### What Still Feels Thin
+
+- visual-asset standards could still become a more explicit checklist pack
+- experimentation around variant-specific PDP testing is still not deeply modeled
+
+### Result
+
+- Strong
+
+---
+
+## 9. Main Findings
 
 The new specialist skill layer is materially better than the previous state because:
 
@@ -189,18 +218,18 @@ The new specialist skill layer is materially better than the previous state beca
 
 The main remaining gap is not coverage. It is execution depth after diagnosis:
 
-- more detailed asset and checklist depth for premium D2C launch-commerce
 - more field-ops detail for local service execution
 - stronger compliance boundaries for regulated SaaS contexts
+- more explicit visual-asset checklist depth for premium D2C audit work
 
 ---
 
-## 9. Recommendation
+## 10. Recommendation
 
 The next best move is not more broad architecture.
 
 The next best move is to test these skills on live Chitr and non-Chitr prompts and then add:
 
-1. one execution-depth skill for premium D2C launch assets or conversion audit
-2. stronger regulated-SaaS boundary guidance
-3. one real end-to-end router test pass across mixed prompts
+1. stronger regulated-SaaS boundary guidance
+2. one real end-to-end router test pass across mixed prompts
+3. optional asset-pack or checklist layer for premium D2C audits

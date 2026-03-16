@@ -1,0 +1,4 @@
+interface:
+  display_name: "Premium D2C Audit"
+  short_description: "Audits premium D2C conversion readiness."
+  default_prompt: "Use $premium-d2c-conversion-audit to audit a premium D2C site or launch before scaling traffic."

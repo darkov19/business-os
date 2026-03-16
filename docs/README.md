@@ -45,6 +45,7 @@ Use these to build skills and workflows:
 6. [business-os-workflow-saas-digital-product.md](./business-os-workflow-saas-digital-product.md)
 7. [business-os-workflow-local-service.md](./business-os-workflow-local-service.md)
 8. [business-os-workflow-partner-channel-rollout.md](./business-os-workflow-partner-channel-rollout.md)
+9. [business-os-workflow-premium-d2c-conversion-audit.md](./business-os-workflow-premium-d2c-conversion-audit.md)
 
 ## Supporting Notes
 

@@ -53,11 +53,13 @@ Steps:
    - `/distributor-wholesale-readiness`
    - `/partner-channel-rollout`
    - `/premium-d2c-launch-commerce`
+   - `/premium-d2c-conversion-audit`
    If the context is SaaS / digital product, prefer `/saas-digital-product`.
    If the context is local service, prefer `/local-service-business`.
    If the user is asking about distributors or wholesale, prefer `/distributor-wholesale-readiness`.
    If the user is asking about onboarding, governing, or scaling existing partner channels, prefer `/partner-channel-rollout`.
    If the user is asking about premium D2C ecommerce conversion, prefer `/premium-d2c-launch-commerce`.
+   If the user is asking for a premium D2C site, PDP, or conversion audit, prefer `/premium-d2c-conversion-audit`.
    Otherwise recommend the right canonical workflow doc and next modules.
 
 Return a compact route summary with:

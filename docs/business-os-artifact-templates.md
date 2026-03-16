@@ -827,7 +827,44 @@ Source Workflow: Partner Channel Rollout
 
 ---
 
-## 7.17 Business Master Dossier Template
+## 7.17 Premium D2C Conversion Audit Template
+
+```md
+# Premium D2C Conversion Audit
+
+Status:
+Date:
+Owner:
+Source Workflow: Premium D2C Conversion Audit
+
+## 1. Purpose
+
+## 2. Audit Scope
+
+## 3. Assortment And Browsing Findings
+
+## 4. PDP Decision-Usefulness Findings
+
+## 5. Trust And Proof Findings
+
+## 6. Post-Purchase Confidence Findings
+
+## 7. Assisted Vs Self-Serve Recommendation
+
+## 8. Evidence Used
+
+## 9. Assumptions
+
+## 10. Priority Fixes
+
+## 11. Open Questions
+
+## 12. Next Steps
+```
+
+---
+
+## 7.18 Business Master Dossier Template
 
 ```md
 # Business Master Dossier
