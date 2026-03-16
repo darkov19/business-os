@@ -1,6 +1,6 @@
 # Business OS Release v0.3.0
 
-Status: Locked baseline candidate
+Status: Published
 Tag: `business-os-v0.3.0`
 Package version: `0.3.0`
 
@@ -21,10 +21,11 @@ Package version: `0.3.0`
 - protected local override folder in `.business-os/_cfg`
 - file-action planning via `--plan`
 - local tarball install path validated for `npx business-os`
+- real post-publish `npx business-os@0.3.0 install` verified
 
 ## Intended Scope
 
-This release is a stronger BMAD-style installer baseline for:
+This release is the active published BMAD-style installer baseline for:
 
 - adaptive project setup
 - selective workflow installs
@@ -35,12 +36,11 @@ This release is a stronger BMAD-style installer baseline for:
 
 - no true curses-style interactive UI
 - no diff-merge engine for user-modified shipped files
-- no published npm package yet
-- no real post-publish internet validation in this environment
+- no richer visual TUI yet
 
 ## Lock Policy
 
-Treat this release as the active installer baseline for:
+Treat this release as the active published installer baseline for:
 
 - package manifest schema
 - install profile model
@@ -51,3 +51,14 @@ Treat this release as the active installer baseline for:
 ## Validation Log
 
 - [business-os-package-validation-v0.3.0.md](/home/darko/Code/chitr/docs/business-os-package-validation-v0.3.0.md)
+
+## Publish State
+
+Published package:
+
+- `business-os@0.3.0`
+
+Verified after publish:
+
+- clean-folder `npx business-os@0.3.0 install`
+- clean-folder `npx business-os@0.3.0 doctor`
