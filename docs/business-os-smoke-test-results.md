@@ -149,7 +149,6 @@ It is an adjacency decision with strategic, sourcing, and financial implications
 
 ### What Still Feels Thin
 
-- no dedicated import / sourcing worked module yet
 - distributor and partner expansion still need deeper execution templates
 
 ---
@@ -259,9 +258,9 @@ Based on this smoke test, the best next documents or skills are:
 
 1. SaaS-specific workflow
 2. local-service workflow
-3. deep import / sourcing execution spec
-4. launch-commerce specifics for premium D2C brands
-5. more worked modules in retention, operations, or sourcing as needed
+3. launch-commerce specifics for premium D2C brands
+4. more worked modules in retention, operations, or sourcing as needed
+5. distributor and partner execution depth
 
 ---
 

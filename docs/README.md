@@ -28,9 +28,10 @@ Use these to build skills and workflows:
 1. [business-os-module-spec-m05-customer-research.md](./business-os-module-spec-m05-customer-research.md)
 2. [business-os-module-spec-m09-costing-pricing-unit-economics.md](./business-os-module-spec-m09-costing-pricing-unit-economics.md)
 3. [business-os-module-spec-m17-financial-planning-capital-allocation.md](./business-os-module-spec-m17-financial-planning-capital-allocation.md)
-4. [business-os-module-spec-o07-expansion-smoke-test.md](./business-os-module-spec-o07-expansion-smoke-test.md)
-5. [business-os-module-spec-o10-saas-digital-product.md](./business-os-module-spec-o10-saas-digital-product.md)
-6. [business-os-module-spec-o11-local-service-operations.md](./business-os-module-spec-o11-local-service-operations.md)
+4. [business-os-module-spec-o06-import-sourcing-evaluation.md](./business-os-module-spec-o06-import-sourcing-evaluation.md)
+5. [business-os-module-spec-o07-expansion-smoke-test.md](./business-os-module-spec-o07-expansion-smoke-test.md)
+6. [business-os-module-spec-o10-saas-digital-product.md](./business-os-module-spec-o10-saas-digital-product.md)
+7. [business-os-module-spec-o11-local-service-operations.md](./business-os-module-spec-o11-local-service-operations.md)
 
 ## Workflow Specs
 
