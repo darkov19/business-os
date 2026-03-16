@@ -74,8 +74,7 @@ They are trying to prepare a defined product line for launch.
 
 ### What Still Feels Thin
 
-- no dedicated worked module yet for financial planning
-- premium visual-commerce requirements are still spread across several docs rather than one concentrated launch-commerce artifact
+- premium D2C launch-commerce still lacks a dedicated workflow or skill even though the overlay is now clearer
 
 ---
 
@@ -149,7 +148,7 @@ It is an adjacency decision with strategic, sourcing, and financial implications
 
 ### What Still Feels Thin
 
-- distributor and partner expansion still need deeper execution templates
+- distributor and partner expansion still lacks a dedicated workflow or execution skill even though the overlay depth is now clearer
 
 ---
 
@@ -256,11 +255,11 @@ The system is usable but still thinner for:
 
 Based on this smoke test, the best next documents or skills are:
 
-1. SaaS-specific workflow
-2. local-service workflow
-3. launch-commerce specifics for premium D2C brands
-4. more worked modules in retention, operations, or sourcing as needed
-5. distributor and partner execution depth
+1. more worked modules in retention, operations, or channel execution as needed
+2. premium D2C launch-commerce workflow or skill
+3. distributor and partner execution workflow or skill
+4. SaaS workflow skill
+5. local-service workflow skill
 
 ---
 

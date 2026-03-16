@@ -198,6 +198,16 @@ Purpose:
 
 - document key roles, ownership boundaries, founder load, and hiring priorities
 
+### A47. Premium D2C Launch Commerce Note
+
+Produced by:
+
+- O16 Premium D2C Launch Commerce
+
+Purpose:
+
+- document premium conversion requirements, PDP assets, trust systems, and assisted-vs-self-serve launch logic
+
 ---
 
 ## 6. New Master Dossier Expectations
@@ -269,6 +279,7 @@ Primary outputs:
 - Route-To-Market Strategy Memo
 - Marketing Strategy Plan
 - Launch Readiness Document
+- Premium D2C Launch Commerce Note where relevant
 - Launch Dossier
 - Support And Issue-Resolution Playbook where launch support matters
 

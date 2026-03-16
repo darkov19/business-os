@@ -25,11 +25,15 @@ Use the canonical Business OS docs from `/home/darko/Code/chitr/docs`.
 - `business-os-workflow-launch-product-or-service.md`
 - `business-os-workflow-improve-sales-or-marketing.md`
 - `business-os-workflow-evaluate-expansion.md`
+- `business-os-workflow-saas-digital-product.md`
+- `business-os-workflow-local-service.md`
 
 ## Worked Modules
 
 - `business-os-module-spec-m05-customer-research.md`
 - `business-os-module-spec-o07-expansion-smoke-test.md`
+- `business-os-module-spec-o05-distributor-wholesale-readiness.md`
+- `business-os-module-spec-o16-premium-d2c-launch-commerce.md`
 
 ## Routing Rule
 

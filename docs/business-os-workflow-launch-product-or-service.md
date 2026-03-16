@@ -118,10 +118,12 @@ Overlay modules commonly used:
 - O02 Productization / Service Standardization
 - O03 Inventory, Fulfillment, And Packaging
 - O04 B2B Pipeline And Account Strategy
+- O05 Distributor / Wholesale Readiness
 - O08 Offline Retail / Exhibition Readiness
 - O11 Local Service Operations Overlay
 - O13 Marketplace / Platform Strategy Overlay
 - O14 Experimentation And Pilot Design
+- O16 Premium D2C Launch Commerce
 
 Control modules used throughout:
 

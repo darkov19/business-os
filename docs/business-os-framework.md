@@ -148,6 +148,7 @@ The current overlay set is:
 13. O13 Marketplace / Platform Strategy Overlay
 14. O14 Experimentation And Pilot Design Overlay
 15. O15 Organization And Team Design Overlay
+16. O16 Premium D2C Launch Commerce
 
 ---
 

@@ -32,6 +32,8 @@ Use these to build skills and workflows:
 5. [business-os-module-spec-o07-expansion-smoke-test.md](./business-os-module-spec-o07-expansion-smoke-test.md)
 6. [business-os-module-spec-o10-saas-digital-product.md](./business-os-module-spec-o10-saas-digital-product.md)
 7. [business-os-module-spec-o11-local-service-operations.md](./business-os-module-spec-o11-local-service-operations.md)
+8. [business-os-module-spec-o05-distributor-wholesale-readiness.md](./business-os-module-spec-o05-distributor-wholesale-readiness.md)
+9. [business-os-module-spec-o16-premium-d2c-launch-commerce.md](./business-os-module-spec-o16-premium-d2c-launch-commerce.md)
 
 ## Workflow Specs
 
@@ -40,6 +42,8 @@ Use these to build skills and workflows:
 3. [business-os-workflow-launch-product-or-service.md](./business-os-workflow-launch-product-or-service.md)
 4. [business-os-workflow-improve-sales-or-marketing.md](./business-os-workflow-improve-sales-or-marketing.md)
 5. [business-os-workflow-evaluate-expansion.md](./business-os-workflow-evaluate-expansion.md)
+6. [business-os-workflow-saas-digital-product.md](./business-os-workflow-saas-digital-product.md)
+7. [business-os-workflow-local-service.md](./business-os-workflow-local-service.md)
 
 ## Supporting Notes
 

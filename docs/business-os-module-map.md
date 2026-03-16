@@ -559,6 +559,18 @@ Purpose:
 
 ---
 
+### O16. Premium D2C Launch Commerce
+
+Use when:
+
+- a premium D2C product brand depends heavily on ecommerce presentation, trust, and self-serve conversion
+
+Purpose:
+
+- define premium launch-commerce requirements such as PDP assets, trust systems, assisted-vs-self-serve logic, and post-purchase confidence
+
+---
+
 ## 6. Control Modules
 
 ### C01. Assumption Log

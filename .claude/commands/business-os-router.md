@@ -48,7 +48,9 @@ Steps:
    - `/launch-product-or-service`
    - `/improve-sales-or-marketing`
    - `/expansion-smoke-test`
-   If no dedicated command exists yet, recommend the right canonical workflow doc and next modules.
+   If the context is SaaS / digital product, prefer `business-os-workflow-saas-digital-product.md` when no dedicated command exists yet.
+   If the context is local service, prefer `business-os-workflow-local-service.md` when no dedicated command exists yet.
+   Otherwise recommend the right canonical workflow doc and next modules.
 
 Return a compact route summary with:
 - Primary intent

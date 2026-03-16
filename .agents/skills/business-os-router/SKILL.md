@@ -74,6 +74,11 @@ If the route is clear:
 - `Improve Sales Or Marketing` -> use `$improve-sales-or-marketing`
 - `Evaluate Expansion / New Category` -> use `$expansion-smoke-test`
 
+Context-aware workflow preference:
+
+- if the context is `SaaS / digital product` and no dedicated skill exists yet, prefer `business-os-workflow-saas-digital-product.md`
+- if the context is `local service` and no dedicated skill exists yet, prefer `business-os-workflow-local-service.md`
+
 If the right workflow does not yet have a dedicated skill, route using the canonical workflow and module docs directly.
 
 ### 4. Return A Compact Route Summary

@@ -642,7 +642,155 @@ Source Module: O14 Experimentation And Pilot Design
 
 ---
 
-## 7.12 Business Master Dossier Template
+## 7.12 Distributor / Wholesale Readiness Memo Template
+
+```md
+# Distributor / Wholesale Readiness Memo
+
+Status:
+Date:
+Owner:
+Source Module: O05 Distributor / Wholesale Readiness
+
+## 1. Purpose
+
+## 2. Business Context Summary
+
+## 3. Channel Model Under Review
+
+## 4. Economics And Payment Implications
+
+## 5. Operational Readiness
+
+## 6. Channel Conflict And Brand Control
+
+## 7. Partner Support Burden
+
+## 8. Evidence Used
+
+## 9. Assumptions
+
+## 10. Recommendation
+
+## 11. Open Questions
+
+## 12. Next Steps
+```
+
+---
+
+## 7.13 SaaS / Digital Product Growth Note Template
+
+```md
+# SaaS / Digital Product Growth Note
+
+Status:
+Date:
+Owner:
+Source Module: O10 SaaS / Digital Product Overlay
+
+## 1. Purpose
+
+## 2. Product And Business Summary
+
+## 3. User And Buyer Distinction
+
+## 4. Activation And Onboarding Logic
+
+## 5. Retention And Churn Logic
+
+## 6. Pricing Model Fit
+
+## 7. Trust, Reliability, And Risk
+
+## 8. Evidence Used
+
+## 9. Assumptions
+
+## 10. Recommendation
+
+## 11. Open Questions
+
+## 12. Next Steps
+```
+
+---
+
+## 7.14 Local Service Operations Plan Template
+
+```md
+# Local Service Operations Plan
+
+Status:
+Date:
+Owner:
+Source Module: O11 Local Service Operations Overlay
+
+## 1. Purpose
+
+## 2. Service And Business Summary
+
+## 3. Territory Definition
+
+## 4. Booking And Dispatch Model
+
+## 5. Capacity And Utilization Logic
+
+## 6. Service Recovery Model
+
+## 7. Local Acquisition And Reputation Dependencies
+
+## 8. Evidence Used
+
+## 9. Assumptions
+
+## 10. Recommendation
+
+## 11. Open Questions
+
+## 12. Next Steps
+```
+
+---
+
+## 7.15 Premium D2C Launch Commerce Note Template
+
+```md
+# Premium D2C Launch Commerce Note
+
+Status:
+Date:
+Owner:
+Source Module: O16 Premium D2C Launch Commerce
+
+## 1. Purpose
+
+## 2. Brand And Offer Context
+
+## 3. Premium Conversion Requirements
+
+## 4. PDP And Asset Requirements
+
+## 5. Trust And Proof Requirements
+
+## 6. Assisted Vs Self-Serve Recommendation
+
+## 7. Post-Purchase Confidence Requirements
+
+## 8. Evidence Used
+
+## 9. Assumptions
+
+## 10. Recommendation
+
+## 11. Open Questions
+
+## 12. Next Steps
+```
+
+---
+
+## 7.16 Business Master Dossier Template
 
 ```md
 # Business Master Dossier
