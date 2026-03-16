@@ -35,6 +35,13 @@ Use the canonical Business OS docs from `/home/darko/Code/chitr/docs`.
 - `business-os-module-spec-o05-distributor-wholesale-readiness.md`
 - `business-os-module-spec-o16-premium-d2c-launch-commerce.md`
 
+## Dedicated Skills
+
+- `saas-digital-product`
+- `local-service-business`
+- `distributor-wholesale-readiness`
+- `premium-d2c-launch-commerce`
+
 ## Routing Rule
 
 If a dedicated workflow skill exists, route to it.

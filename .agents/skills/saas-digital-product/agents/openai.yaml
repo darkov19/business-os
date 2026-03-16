@@ -1,0 +1,4 @@
+interface:
+  display_name: "SaaS Digital Product"
+  short_description: "Structures SaaS and digital product businesses."
+  default_prompt: "Use $saas-digital-product to validate, launch, or improve a SaaS or digital product business."

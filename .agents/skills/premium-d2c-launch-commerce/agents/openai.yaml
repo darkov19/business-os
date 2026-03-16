@@ -1,0 +1,4 @@
+interface:
+  display_name: "Premium D2C Commerce"
+  short_description: "Evaluates premium D2C launch conversion."
+  default_prompt: "Use $premium-d2c-launch-commerce to evaluate whether a premium D2C brand is ready for self-serve ecommerce launch and traffic scale."

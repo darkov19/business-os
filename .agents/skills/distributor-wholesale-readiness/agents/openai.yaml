@@ -1,0 +1,4 @@
+interface:
+  display_name: "Distributor Wholesale"
+  short_description: "Evaluates distributor and wholesale readiness."
+  default_prompt: "Use $distributor-wholesale-readiness to decide if a business is ready for distributors, wholesale, or reseller channels."

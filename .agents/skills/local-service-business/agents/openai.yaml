@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Service Business"
+  short_description: "Builds geography-bound service businesses."
+  default_prompt: "Use $local-service-business to start, launch, or tighten a local service business."
