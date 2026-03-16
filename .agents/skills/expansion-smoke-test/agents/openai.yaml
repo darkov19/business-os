@@ -1,0 +1,4 @@
+interface:
+  display_name: "Expansion Smoke Test"
+  short_description: "Evaluates whether a new category or channel fits."
+  default_prompt: "Use $expansion-smoke-test to evaluate whether this expansion should be added, piloted, deferred, or rejected."

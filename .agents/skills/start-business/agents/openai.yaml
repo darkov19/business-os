@@ -1,0 +1,4 @@
+interface:
+  display_name: "Start Business"
+  short_description: "Guides a founder from idea to business foundation."
+  default_prompt: "Use $start-business to help me structure a new business idea from scratch."

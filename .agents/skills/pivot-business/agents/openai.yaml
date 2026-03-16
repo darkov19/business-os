@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pivot Business"
+  short_description: "Diagnoses and redesigns an existing business pivot."
+  default_prompt: "Use $pivot-business to help me pivot my current business into a stronger model."

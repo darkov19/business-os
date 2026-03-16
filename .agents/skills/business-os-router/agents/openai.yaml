@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business OS Router"
+  short_description: "Routes business queries to the right workflow."
+  default_prompt: "Use $business-os-router to classify this business request and choose the right workflow."
