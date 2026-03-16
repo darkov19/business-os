@@ -1,10 +1,10 @@
 {
   "name": "business-os",
-  "version": "0.1.0",
-  "description": "Business OS installer and workflow package",
+  "version": "0.2.0",
+  "description": "Business OS installer, docs, and workflow package",
   "type": "module",
   "bin": {
-    "business-os": "./bin/business-os.js"
+    "business-os": "bin/business-os.js"
   },
   "engines": {
     "node": ">=20"
@@ -14,11 +14,17 @@
     "src",
     "docs",
     ".agents/skills",
-    ".claude/commands"
+    ".claude/commands",
+    "README.md"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "install:local": "node ./bin/business-os.js install",
     "doctor": "node ./bin/business-os.js doctor",
-    "update:local": "node ./bin/business-os.js update"
+    "update:local": "node ./bin/business-os.js update",
+    "pack:check": "npm pack --dry-run",
+    "publish:check": "npm publish --dry-run"
   }
 }

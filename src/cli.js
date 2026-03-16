@@ -2,20 +2,26 @@ import path from "node:path";
 import { runInstall } from "./commands/install.js";
 import { runDoctor } from "./commands/doctor.js";
 import { runUpdate } from "./commands/update.js";
+import { DEFAULT_PROFILE, DEFAULT_TARGET } from "./config.js";
 
 function printHelp() {
   console.log(`Business OS CLI
 
 Usage:
-  business-os install [--target codex|claude|both] [--project PATH] [--no-docs] [--force] [--dry-run]
+  business-os install [--target codex|claude|both] [--profile core|full] [--project PATH] [--no-docs] [--force] [--yes] [--dry-run]
   business-os doctor [--project PATH]
   business-os update [--project PATH] [--dry-run]
 
 Examples:
   business-os install
   business-os install --target codex
+  business-os install --profile core --yes
   business-os doctor
   business-os update
+
+Defaults:
+  target: ${DEFAULT_TARGET}
+  profile: ${DEFAULT_PROFILE}
 `);
 }
 
@@ -23,10 +29,19 @@ function parseArgs(argv) {
   const args = {
     command: argv[0] || "help",
     project: process.cwd(),
-    target: "both",
+    target: DEFAULT_TARGET,
+    profile: DEFAULT_PROFILE,
     docs: true,
     force: false,
-    dryRun: false
+    dryRun: false,
+    yes: false,
+    interactive: undefined,
+    explicit: {
+      project: false,
+      target: false,
+      profile: false,
+      docs: false
+    }
   };
 
   for (let index = 1; index < argv.length; index += 1) {
@@ -35,11 +50,23 @@ function parseArgs(argv) {
     if (value === "--project") {
       args.project = path.resolve(argv[index + 1]);
       index += 1;
+      args.explicit.project = true;
     } else if (value === "--target") {
       args.target = argv[index + 1];
       index += 1;
+      args.explicit.target = true;
+    } else if (value === "--profile") {
+      args.profile = argv[index + 1];
+      index += 1;
+      args.explicit.profile = true;
     } else if (value === "--no-docs") {
       args.docs = false;
+      args.explicit.docs = true;
+    } else if (value === "--yes" || value === "-y") {
+      args.yes = true;
+      args.interactive = false;
+    } else if (value === "--interactive") {
+      args.interactive = true;
     } else if (value === "--force") {
       args.force = true;
     } else if (value === "--dry-run") {

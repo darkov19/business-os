@@ -1,0 +1,37 @@
+name: Publish Business OS Package
+
+on:
+  push:
+    tags:
+      - "business-os-v*"
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: https://registry.npmjs.org
+
+      - name: Install package metadata
+        run: npm install --package-lock-only
+
+      - name: Validate pack output
+        run: npm pack --dry-run
+
+      - name: Validate publish package
+        run: npm publish --dry-run
+
+      - name: Publish to npm
+        if: startsWith(github.ref, 'refs/tags/business-os-v')
+        run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}

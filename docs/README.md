@@ -57,6 +57,9 @@ Use these to build skills and workflows:
 6. [business-os-router-smoke-tests.md](./business-os-router-smoke-tests.md)
 7. [business-os-package-architecture.md](./business-os-package-architecture.md)
 8. [business-os-installer-spec.md](./business-os-installer-spec.md)
+9. [business-os-release-v0.2.0.md](./business-os-release-v0.2.0.md)
+10. [business-os-publish-flow.md](./business-os-publish-flow.md)
+11. [business-os-package-validation-v0.2.0.md](./business-os-package-validation-v0.2.0.md)
 
 ## Archive
 

@@ -34,8 +34,13 @@ export async function copyFileSafe(sourcePath, targetPath, { force = false, dryR
 }
 
 export async function copyDirSafe(sourcePath, targetPath, { force = false, dryRun = false, filter } = {}) {
+  const exists = await pathExists(targetPath);
+  if (exists && !force) {
+    return { copied: false, skipped: true };
+  }
+
   if (dryRun) {
-    return;
+    return { copied: true, skipped: false };
   }
 
   await fs.cp(sourcePath, targetPath, {
@@ -44,4 +49,6 @@ export async function copyDirSafe(sourcePath, targetPath, { force = false, dryRu
     errorOnExist: !force,
     filter
   });
+
+  return { copied: true, skipped: false };
 }

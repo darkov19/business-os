@@ -23,10 +23,21 @@ Behavior:
 Supported options:
 
 - `--target codex|claude|both`
+- `--profile core|full`
 - `--project PATH`
 - `--no-docs`
 - `--force`
+- `--yes`
 - `--dry-run`
+
+Interactive behavior:
+
+- if running in a TTY without `--yes`, installer should guide the user through:
+  - project path
+  - target IDE mode
+  - workflow profile
+  - docs install yes/no
+  - install confirmation
 
 ### `business-os doctor`
 
@@ -99,10 +110,11 @@ Initial fields:
 ```json
 {
   "package": "business-os",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "installedAt": "ISO_TIMESTAMP",
   "project": "/abs/path",
   "target": "both",
+  "profile": "full",
   "docsInstalled": true,
   "codexSkills": [],
   "claudeCommands": []
@@ -117,6 +129,7 @@ Installer should:
 
 - never silently overwrite installed files unless `--force` or `update` is used
 - validate target mode before install
+- validate profile mode before install
 - fail clearly if no manifest exists for `update`
 - remain dependency-light and use Node built-ins where possible
 
@@ -132,3 +145,4 @@ Before publishing the package:
 4. verify `.business-os/install-manifest.json` is written
 5. verify `doctor` output is correct
 6. verify `update` works after a first install
+7. verify interactive install path works in a TTY

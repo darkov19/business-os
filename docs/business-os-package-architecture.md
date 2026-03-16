@@ -115,9 +115,11 @@ business-os update
 Recommended first options:
 
 - `--target codex|claude|both`
+- `--profile core|full`
 - `--project PATH`
 - `--no-docs`
 - `--force`
+- `--yes`
 - `--dry-run`
 
 ---
