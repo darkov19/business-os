@@ -1,0 +1,4 @@
+interface:
+  display_name: "Improve Sales Or Marketing"
+  short_description: "Diagnoses growth, messaging, and channel problems."
+  default_prompt: "Use $improve-sales-or-marketing to diagnose weak sales or marketing and recommend a stronger growth path."

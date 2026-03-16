@@ -23,6 +23,7 @@ Use the canonical Business OS docs from `/home/darko/Code/chitr/docs`.
 - `business-os-workflow-start-from-scratch.md`
 - `business-os-workflow-pivot-existing-business.md`
 - `business-os-workflow-launch-product-or-service.md`
+- `business-os-workflow-improve-sales-or-marketing.md`
 - `business-os-workflow-evaluate-expansion.md`
 
 ## Worked Modules
