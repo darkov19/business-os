@@ -74,7 +74,7 @@ They are trying to prepare a defined product line for launch.
 
 ### What Still Feels Thin
 
-- no dedicated worked module yet for pricing or financial planning
+- no dedicated worked module yet for financial planning
 - premium visual-commerce requirements are still spread across several docs rather than one concentrated launch-commerce artifact
 
 ---

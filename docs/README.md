@@ -26,7 +26,8 @@ Use these to build skills and workflows:
 ## Worked Modules
 
 1. [business-os-module-spec-m05-customer-research.md](./business-os-module-spec-m05-customer-research.md)
-2. [business-os-module-spec-o07-expansion-smoke-test.md](./business-os-module-spec-o07-expansion-smoke-test.md)
+2. [business-os-module-spec-m09-costing-pricing-unit-economics.md](./business-os-module-spec-m09-costing-pricing-unit-economics.md)
+3. [business-os-module-spec-o07-expansion-smoke-test.md](./business-os-module-spec-o07-expansion-smoke-test.md)
 
 ## Workflow Specs
 
