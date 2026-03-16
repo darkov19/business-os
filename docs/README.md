@@ -32,7 +32,8 @@ Use these to build skills and workflows:
 
 1. [business-os-workflow-start-from-scratch.md](./business-os-workflow-start-from-scratch.md)
 2. [business-os-workflow-pivot-existing-business.md](./business-os-workflow-pivot-existing-business.md)
-3. [business-os-workflow-evaluate-expansion.md](./business-os-workflow-evaluate-expansion.md)
+3. [business-os-workflow-launch-product-or-service.md](./business-os-workflow-launch-product-or-service.md)
+4. [business-os-workflow-evaluate-expansion.md](./business-os-workflow-evaluate-expansion.md)
 
 ## Supporting Notes
 

@@ -45,6 +45,7 @@ Steps:
 5. Recommend the best next workflow or local skill:
    - `/start-business`
    - `/pivot-business`
+   - `/launch-product-or-service`
    - `/expansion-smoke-test`
    If no dedicated command exists yet, recommend the right canonical workflow doc and next modules.
 

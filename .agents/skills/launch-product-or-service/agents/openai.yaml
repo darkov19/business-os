@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch Product Or Service"
+  short_description: "Plans a launch-ready offer, channels, and execution."
+  default_prompt: "Use $launch-product-or-service to prepare a product or service launch with pricing, operations, channels, and launch planning."

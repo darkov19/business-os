@@ -70,6 +70,7 @@ If the route is clear:
 
 - `Start From Scratch` -> use `$start-business`
 - `Pivot Existing Business` -> use `$pivot-business`
+- `Launch A New Product Or Service` -> use `$launch-product-or-service`
 - `Evaluate Expansion / New Category` -> use `$expansion-smoke-test`
 
 If the right workflow does not yet have a dedicated skill, route using the canonical workflow and module docs directly.
