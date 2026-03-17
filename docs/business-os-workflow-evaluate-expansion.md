@@ -85,6 +85,7 @@ By the end of this workflow, the system should be able to produce:
 - an Import / Sourcing Evaluation Memo where relevant
 - a Route-To-Market Strategy Memo where channel impact changes
 - an Experiment / Pilot Design Memo where the right next step is testing
+- an Execution Activation Plan where the answer is add now or pilot first
 - an Expansion Decision Dossier
 
 And it should state clearly one of these outcomes:

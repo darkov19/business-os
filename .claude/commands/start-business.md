@@ -29,7 +29,8 @@ Operating rules:
    - the later channel to unlock next
    - why now / why not now
    - the gate for moving into the later channel
-8. End with a clear next-step recommendation, not just a long document dump.
+8. When a meaningful path is recommended, convert it into an Execution Activation Plan for the next 30-60 days.
+9. End with a clear next-step recommendation, not just a long document dump.
 
 Aim to produce or outline:
 - Founder Brief
@@ -39,6 +40,7 @@ Aim to produce or outline:
 - Market And Competitor Memo
 - Positioning Memo
 - Route-To-Market Strategy Memo where the concept is developed enough
+- Execution Activation Plan where the first path is clear
 - Business Concept Dossier
 
 End with one of:

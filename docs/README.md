@@ -14,6 +14,7 @@ Start with:
 6. [business-os-artifact-map.md](./business-os-artifact-map.md)
 7. [business-os-decision-gate-philosophy.md](./business-os-decision-gate-philosophy.md)
 8. [business-os-route-to-market-decision-standard.md](./business-os-route-to-market-decision-standard.md)
+9. [business-os-execution-activation-standard.md](./business-os-execution-activation-standard.md)
 
 ## Implementation Docs
 

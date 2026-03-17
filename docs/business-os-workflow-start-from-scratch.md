@@ -33,6 +33,7 @@ This workflow exists to turn that early-stage ambiguity into:
 - a first positioning direction
 - an initial offer structure
 - a first route-to-market decision
+- an initial execution direction for the first 30-60 days
 - a clear next validation or planning path
 
 This is not a “write a business plan immediately” workflow.
@@ -87,6 +88,8 @@ By the end of this workflow, the system should be able to produce:
 - a Customer Research Brief
 - a Market And Competitor Memo
 - a Positioning Memo
+- a Route-To-Market Strategy Memo
+- an Execution Activation Plan where the first path is clear
 - a Business Concept Dossier
 
 And it should be able to say one of the following:
@@ -352,6 +355,8 @@ The dossier should capture:
 - why it may be worth building
 - how it is different
 - what the likely first offer is
+- what the likely first route-to-market recommendation is
+- what the founder should do first over the next 30-60 days
 - what remains uncertain
 
 This is the main output of the workflow.
@@ -457,6 +462,7 @@ The final artifact should clearly state:
 - what is known
 - what is inferred
 - what still needs validation
+- what the founder should do first over the next 30-60 days if the concept is worth pursuing
 
 ---
 

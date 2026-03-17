@@ -89,6 +89,7 @@ By the end of this workflow, the system should be able to produce:
 - a Marketing Strategy Plan
 - a Brand, Messaging, And Trust Framework
 - a Customer Success And Retention Memo where relevant
+- an Execution Activation Plan
 - a prioritized growth-improvement plan
 
 And it should be able to state:
@@ -96,6 +97,7 @@ And it should be able to state:
 - what the main growth bottleneck is
 - what should be fixed first
 - what channels or tactics are wrong, premature, or missing
+- what the business should do first over the next 30-60 days
 
 ---
 

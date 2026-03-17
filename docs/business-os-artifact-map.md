@@ -65,6 +65,8 @@ Version 2 keeps the main v1 artifacts, including:
 - Pricing And Unit Economics Memo
 - Route-To-Market Strategy Memo
 - Marketing Strategy Plan
+- Execution Activation Plan
+- 30/60 Day Execution Plan
 - Operations Playbook
 - Brand, Messaging, And Trust Framework
 - Launch Readiness Document
@@ -208,6 +210,31 @@ Purpose:
 
 - document premium conversion requirements, PDP assets, trust systems, and assisted-vs-self-serve launch logic
 
+### A48. Execution Activation Plan
+
+Produced by:
+
+- major workflow end states
+- M12 where route-to-market sequencing is the key output
+- M14 where launch sequencing is the key output
+- M16 where prioritization and review loops are central
+
+Purpose:
+
+- convert a strategic recommendation into a concrete near-term execution plan
+
+### A49. 30/60 Day Execution Plan
+
+Produced by:
+
+- major workflow end states
+- M14 Launch And Execution Planning
+- M16 Metrics, Review Loops, And Pivot Rules
+
+Purpose:
+
+- define what happens in the first 30-60 days, what success looks like, and what unlocks the next stage
+
 ---
 
 ## 6. New Master Dossier Expectations
@@ -230,6 +257,8 @@ Should now also include where relevant:
 - support and issue-resolution logic
 - working-capital or cash-pressure note
 - pilot logic if launch is phased
+- activation plan summary
+- 30/60 day execution plan summary
 
 ### Expansion Decision Dossier
 
@@ -238,6 +267,7 @@ Should now also include where relevant:
 - financial strain assessment
 - experiment design
 - support / delivery burden
+- activation plan summary if expansion is approved or piloted
 
 ---
 
@@ -251,6 +281,7 @@ Primary outputs:
 - Business Definition Note
 - Opportunity / Problem Memo
 - Business Concept Dossier
+- Execution Activation Plan where a first route-to-market direction is agreed
 - Assumption Log
 
 ### Validate An Idea
@@ -269,6 +300,8 @@ Primary outputs:
 - Asset And Capability Audit
 - Pivot Strategy Dossier
 - Financial Planning Memo when the pivot affects cash structure
+- Execution Activation Plan
+- 30/60 Day Execution Plan where the pivot should move into a pilot or phased rollout
 
 ### Launch A New Product Or Service
 
@@ -279,6 +312,8 @@ Primary outputs:
 - Route-To-Market Strategy Memo
 - Marketing Strategy Plan
 - Launch Readiness Document
+- Execution Activation Plan
+- 30/60 Day Execution Plan
 - Premium D2C Launch Commerce Note where relevant
 - Launch Dossier
 - Support And Issue-Resolution Playbook where launch support matters
@@ -290,6 +325,7 @@ Primary outputs:
 - Route-To-Market Strategy Memo
 - Marketing Strategy Plan
 - Brand, Messaging, And Trust Framework
+- Execution Activation Plan
 - Marketplace / Platform Strategy Memo if relevant
 
 ### Fix Pricing, Economics, Or Capital Pressure
@@ -321,6 +357,7 @@ Primary outputs:
 - Expansion Smoke Test Memo
 - Experiment / Pilot Design Memo
 - Financial Planning Memo if the expansion affects capital burden
+- Execution Activation Plan when the answer is add now or pilot first
 - Expansion Decision Dossier
 
 ### Document My Business

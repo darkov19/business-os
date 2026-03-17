@@ -86,6 +86,8 @@ By the end of this workflow, the system should be able to produce:
 - a Route-To-Market Strategy Memo
 - a Marketing Strategy Plan
 - a Launch Readiness Document
+- an Execution Activation Plan
+- a 30/60 Day Execution Plan
 - a Financial Planning Memo where needed
 - a Customer Success And Retention Memo where relevant
 - a Launch Dossier
@@ -96,6 +98,7 @@ And it should be able to state clearly:
 - what still needs to be fixed
 - what should be phased
 - what should be validated before launch
+- what the team should do over the next 30-60 days
 
 ---
 
@@ -306,6 +309,7 @@ Define how the offer will reach customers and convert them.
 - Brand, Messaging, And Trust Framework
 - Route-To-Market Strategy Memo
 - Marketing Strategy Plan
+- Execution Activation Plan where the channel path is clear
 
 The Route-To-Market Strategy Memo should explicitly state:
 
@@ -347,6 +351,7 @@ Bring the launch pieces together and assess whether the business is truly ready.
 
 - Launch Readiness Document
 - Experiment / Pilot Design Memo where needed
+- 30/60 Day Execution Plan
 
 ### Gate
 

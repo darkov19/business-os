@@ -19,7 +19,8 @@ Operating rules:
    - `/home/darko/Code/chitr/docs/business-os-module-map.md`
 3. Diagnose before giving tactics.
 4. Do not recommend more traffic if the real problem is offer, message, or trust weakness.
-5. End with a prioritized plan, not a random tactic list.
+5. When the fix direction is clear, convert it into an Execution Activation Plan for the next 30-60 days.
+6. End with a prioritized plan, not a random tactic list.
 
 Aim to produce or outline:
 - Growth Diagnosis Memo
@@ -27,4 +28,5 @@ Aim to produce or outline:
 - Marketing Strategy Plan
 - Brand, Messaging, And Trust Framework
 - Customer Success And Retention Memo where relevant
+- Execution Activation Plan
 - prioritized growth-improvement plan

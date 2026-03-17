@@ -25,7 +25,8 @@ Operating rules:
    - the later channel to activate next
    - why now / why not now
    - the gate for moving into the later channel
-7. Prefer phased or pilot launch recommendations when readiness is mixed.
+7. When the launch path is clear, produce an Execution Activation Plan and a 30/60 Day Execution Plan.
+8. Prefer phased or pilot launch recommendations when readiness is mixed.
 
 Aim to produce or outline:
 - Offer Architecture Document
@@ -34,6 +35,8 @@ Aim to produce or outline:
 - Brand, Messaging, And Trust Framework
 - Route-To-Market Strategy Memo
 - Marketing Strategy Plan
+- Execution Activation Plan
+- 30/60 Day Execution Plan
 - Launch Readiness Document
 - Financial Planning Memo where needed
 - Customer Success And Retention Memo where relevant

@@ -42,7 +42,8 @@ Run the `Evaluate Expansion / New Category` workflow from the canonical Business
 2. Do not confuse founder excitement with evidence.
 3. Check whether the current business is stable enough to absorb more complexity.
 4. Prefer a pilot recommendation when uncertainty is material.
-5. Pull in finance, sourcing, ops, and channel analysis when the idea touches them materially.
+5. If the answer is `add now` or `pilot first`, produce an Execution Activation Plan for the next 30-60 days.
+6. Pull in finance, sourcing, ops, and channel analysis when the idea touches them materially.
 
 ## Main Docs To Load
 
@@ -69,6 +70,7 @@ Aim to produce or outline:
 - Import / Sourcing Evaluation Memo where needed
 - Route-To-Market Strategy Memo where needed
 - Experiment / Pilot Design Memo where needed
+- Execution Activation Plan where the answer is `add now` or `pilot first`
 - Expansion Decision Dossier
 
 ## Recommendation Classes

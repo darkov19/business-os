@@ -48,7 +48,8 @@ Run the `Launch A New Product Or Service` workflow from the canonical Business O
    - the later channel to activate next
    - why now / why not now
    - the gate for moving into the later channel
-7. Make blockers explicit when the answer is `not ready`.
+7. When the launch path is clear, produce an Execution Activation Plan and a 30/60 Day Execution Plan.
+8. Make blockers explicit when the answer is `not ready`.
 
 ## Main Docs To Load
 
@@ -70,6 +71,8 @@ Aim to produce or outline:
 - Brand, Messaging, And Trust Framework
 - Route-To-Market Strategy Memo
 - Marketing Strategy Plan
+- Execution Activation Plan
+- 30/60 Day Execution Plan
 - Launch Readiness Document
 - Financial Planning Memo where needed
 - Customer Success And Retention Memo where relevant

@@ -40,7 +40,8 @@ Run the `Improve Sales Or Marketing` workflow from the canonical Business OS doc
 2. Diagnose before giving tactics.
 3. Do not recommend more traffic if the real problem is offer, message, or trust weakness.
 4. Keep the final output prioritized and staged.
-5. Use evidence honestly and state confidence clearly.
+5. When the fix direction is clear, convert it into an Execution Activation Plan for the next 30-60 days.
+6. Use evidence honestly and state confidence clearly.
 
 ## Main Docs To Load
 
@@ -61,6 +62,7 @@ Aim to produce or outline:
 - Marketing Strategy Plan
 - Brand, Messaging, And Trust Framework
 - Customer Success And Retention Memo where relevant
+- Execution Activation Plan
 - prioritized growth-improvement plan
 
 ## Gate Behavior

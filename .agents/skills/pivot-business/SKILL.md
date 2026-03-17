@@ -53,7 +53,8 @@ Run the `Pivot Existing Business` workflow from the canonical Business OS docs.
    - the later channel to unlock next
    - why now / why not now
    - the gate for moving into the later channel
-7. Prefer pilot-first recommendations when the new direction is promising but not yet proven.
+7. If the pivot recommendation is strong enough to act on, produce an Execution Activation Plan and a 30/60 Day Execution Plan.
+8. Prefer pilot-first recommendations when the new direction is promising but not yet proven.
 
 ## Main Docs To Load
 
@@ -79,6 +80,8 @@ Aim to produce or outline:
 - Pricing And Unit Economics Memo
 - Route-To-Market Strategy Memo
 - Financial Planning Memo where needed
+- Execution Activation Plan
+- 30/60 Day Execution Plan where the pivot should move into pilot or phased execution
 - Pivot Strategy Dossier
 
 The Route-To-Market Strategy Memo should explicitly state:

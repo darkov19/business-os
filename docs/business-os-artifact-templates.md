@@ -870,7 +870,81 @@ Source Workflow: Premium D2C Conversion Audit
 
 ---
 
-## 7.18 Business Master Dossier Template
+## 7.18 Execution Activation Plan Template
+
+```md
+# Execution Activation Plan
+
+Status:
+Date:
+Owner:
+Source Workflow / Module:
+
+## 1. Purpose
+
+## 2. Recommendation Being Activated
+
+## 3. Why This Path First
+
+## 4. Immediate Objective
+
+## 5. Scope For This Activation Window
+
+## 6. Required Inputs And Assets
+
+## 7. Key Actions
+
+## 8. Owners Or Responsibility Notes
+
+## 9. Metrics To Track
+
+## 10. Risks And Failure Modes
+
+## 11. Review Cadence
+
+## 12. Next-Stage Unlock Criteria
+
+## 13. Open Questions
+
+## 14. Next Steps
+```
+
+---
+
+## 7.19 30/60 Day Execution Plan Template
+
+```md
+# 30/60 Day Execution Plan
+
+Status:
+Date:
+Owner:
+Source Workflow / Module:
+
+## 1. Purpose
+
+## 2. Activation Goal
+
+## 3. Days 1-14
+
+## 4. Days 15-30
+
+## 5. Days 31-60
+
+## 6. Weekly Metrics
+
+## 7. Review Checkpoints
+
+## 8. Stop / Adjust Triggers
+
+## 9. Unlock Criteria For The Next Stage
+
+## 10. Next Steps
+```
+
+---
+
+## 7.20 Business Master Dossier Template
 
 ```md
 # Business Master Dossier

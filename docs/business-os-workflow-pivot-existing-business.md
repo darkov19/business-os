@@ -91,6 +91,8 @@ By the end of this workflow, the system should be able to produce:
 - a Pricing And Unit Economics Memo
 - a Route-To-Market Strategy Memo
 - a Financial Planning Memo where relevant
+- an Execution Activation Plan
+- a 30/60 Day Execution Plan where the pivot should move into pilot or phased execution
 - a Pivot Strategy Dossier
 
 And it should be able to state clearly:
@@ -100,6 +102,7 @@ And it should be able to state clearly:
 - what the new business direction is
 - what risks the pivot creates
 - what should be tested before full commitment
+- what should happen first over the next 30-60 days
 
 ---
 
@@ -339,6 +342,7 @@ Translate the future direction into a usable business model.
 - Pricing And Unit Economics Memo
 - Operations Playbook
 - Route-To-Market Strategy Memo
+- Execution Activation Plan where the path is decision-ready
 
 The Route-To-Market Strategy Memo should explicitly state:
 
@@ -387,6 +391,7 @@ Determine whether the business can realistically afford and execute the pivot.
 - Financial Planning Memo
 - Launch / Transition Plan
 - Experiment / Pilot Design Memo if needed
+- 30/60 Day Execution Plan where the next move is clear
 
 ### Gate
 
@@ -416,6 +421,7 @@ Consolidate the pivot logic into a clear decision-ready artifact.
 - how it will make money
 - what must be tested
 - what the transition risks are
+- what should happen in the next 30-60 days if the pivot proceeds
 
 ### Possible End States
 
