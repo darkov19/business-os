@@ -17,6 +17,8 @@ Primary outputs:
 - Local Service Operations Plan
 - Route-To-Market Strategy Memo
 - Customer Success And Retention Memo where repeat service matters
+- Execution Activation Plan where the operating path is clear
+- 30/60 Day Execution Plan where launch or tightening work is ready
 - Business Concept Dossier or Launch Dossier depending on stage
 
 End states:

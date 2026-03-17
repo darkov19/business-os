@@ -15,6 +15,8 @@ Primary outputs:
 - Brand, Messaging, And Trust Framework
 - Route-To-Market Strategy Memo
 - Marketing Strategy Plan
+- Execution Activation Plan
+- 30/60 Day Execution Plan
 - Launch Readiness Document
 - Financial Planning Memo where needed
 - Customer Success And Retention Memo where relevant

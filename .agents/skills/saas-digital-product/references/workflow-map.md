@@ -17,6 +17,8 @@ Primary outputs:
 - Pricing And Unit Economics Memo
 - Route-To-Market Strategy Memo
 - Customer Success And Retention Memo where relevant
+- Execution Activation Plan where the SaaS path is clear
+- 30/60 Day Execution Plan where validation or launch work is ready
 - Business Concept Dossier or Launch Dossier depending on stage
 
 End states:

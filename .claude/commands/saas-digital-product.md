@@ -19,7 +19,8 @@ Operating rules:
    - `/home/darko/Code/chitr/docs/business-os-artifact-templates.md`
 3. Keep a clear distinction between acquisition, activation, retention, and trust.
 4. Do not recommend aggressive growth if onboarding, activation, or retention remain weak.
-5. Prefer narrow launch or bounded validation over broad software ambition.
+5. When the SaaS path is clear, produce an Execution Activation Plan and a 30/60 Day Execution Plan.
+6. Prefer narrow launch or bounded validation over broad software ambition.
 
 Aim to produce or outline:
 - Business Definition Note
@@ -29,4 +30,6 @@ Aim to produce or outline:
 - Pricing And Unit Economics Memo
 - Route-To-Market Strategy Memo
 - Customer Success And Retention Memo where relevant
+- Execution Activation Plan where the SaaS path is clear
+- 30/60 Day Execution Plan where validation or launch work is ready
 - Business Concept Dossier or Launch Dossier depending on stage

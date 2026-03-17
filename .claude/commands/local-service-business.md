@@ -19,7 +19,8 @@ Operating rules:
    - `/home/darko/Code/chitr/docs/business-os-artifact-templates.md`
 3. Keep operations and reputation tightly linked.
 4. Do not recommend more demand if scheduling, dispatch, or recovery are still fragile.
-5. Prefer narrower territories and tighter delivery standards over premature expansion.
+5. When the local-service path is clear, produce an Execution Activation Plan and a 30/60 Day Execution Plan.
+6. Prefer narrower territories and tighter delivery standards over premature expansion.
 
 Aim to produce or outline:
 - Business Definition Note
@@ -29,4 +30,6 @@ Aim to produce or outline:
 - Local Service Operations Plan
 - Route-To-Market Strategy Memo
 - Customer Success And Retention Memo where repeat service matters
+- Execution Activation Plan where the operating path is clear
+- 30/60 Day Execution Plan where launch or tightening work is ready
 - Business Concept Dossier or Launch Dossier depending on stage

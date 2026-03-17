@@ -42,7 +42,8 @@ Run the `Premium D2C Conversion Audit` workflow from the canonical Business OS d
 2. Keep the audit tied to conversion decisions, not generic design taste.
 3. Do not recommend paid scale if the commerce layer still has critical trust or decision-usefulness gaps.
 4. Prefer assisted or staged conversion when premium trust and proof are still thin.
-5. Use evidence honestly and state confidence clearly.
+5. Convert the audit recommendation into an Execution Activation Plan for the next 30-60 days.
+6. Use evidence honestly and state confidence clearly.
 
 ## Main Docs To Load
 
@@ -63,6 +64,7 @@ Aim to produce or outline:
 - trust-gap note where useful
 - assisted-vs-self-serve recommendation
 - Launch Readiness update where relevant
+- Execution Activation Plan for the first 30-60 day fix sequence
 
 ## Gate Behavior
 

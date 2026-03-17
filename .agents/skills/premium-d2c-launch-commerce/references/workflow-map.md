@@ -13,6 +13,7 @@ Primary outputs:
 - PDP asset checklist where useful
 - launch trust-gap note where useful
 - assisted-selling recommendation note where useful
+- Execution Activation Plan where the commerce path is clear
 
 End states:
 

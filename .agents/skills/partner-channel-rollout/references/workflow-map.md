@@ -14,6 +14,8 @@ Primary outputs:
 - Route-To-Market Strategy Memo where needed
 - Financial Planning Memo where payment-cycle risk matters
 - operations and support update
+- Execution Activation Plan
+- 30/60 Day Execution Plan
 
 End states:
 

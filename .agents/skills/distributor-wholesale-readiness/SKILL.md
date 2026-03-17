@@ -40,7 +40,8 @@ Run the `Distributor / Wholesale Readiness` overlay from the canonical Business 
 2. Stay grounded in economics and operational burden, not channel prestige.
 3. Do not recommend indirect-channel expansion if pricing, payment, or supply repeatability are weak.
 4. Prefer bounded partner pilots over broad rollout.
-5. Use evidence honestly and state confidence clearly.
+5. If the answer is `pilot with partners` or `enter with conditions`, produce an Execution Activation Plan.
+6. Use evidence honestly and state confidence clearly.
 
 ## Main Docs To Load
 
@@ -60,6 +61,7 @@ Aim to produce or outline:
 - partner economics table where useful
 - channel conflict note where useful
 - pilot partner strategy note where useful
+- Execution Activation Plan where the answer is pilot with partners or enter with conditions
 
 ## Gate Behavior
 

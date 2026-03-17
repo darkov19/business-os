@@ -15,6 +15,7 @@ Primary outputs:
 - Import / Sourcing Evaluation Memo where needed
 - Route-To-Market Strategy Memo where needed
 - Experiment / Pilot Design Memo where needed
+- Execution Activation Plan where the answer is add now or pilot first
 - Expansion Decision Dossier
 
 End states:

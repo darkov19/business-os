@@ -13,6 +13,7 @@ Primary outputs:
 - partner economics table where useful
 - channel conflict note where useful
 - pilot partner strategy note where useful
+- Execution Activation Plan where the answer is pilot with partners or enter with conditions
 
 End states:
 

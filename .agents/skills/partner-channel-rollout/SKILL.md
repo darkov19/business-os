@@ -42,7 +42,8 @@ Run the `Partner Channel Rollout` workflow from the canonical Business OS docs.
 2. Keep the work operational and governance-heavy, not abstract channel strategy.
 3. Do not recommend broad rollout if support, reorder, or collections discipline is weak.
 4. Prefer bounded rollout and measurable review cadence over uncontrolled partner sprawl.
-5. Use evidence honestly and state confidence clearly.
+5. When the rollout path is clear, produce an Execution Activation Plan and a 30/60 Day Execution Plan.
+6. Use evidence honestly and state confidence clearly.
 
 ## Main Docs To Load
 
@@ -63,6 +64,8 @@ Aim to produce or outline:
 - Route-To-Market Strategy Memo where needed
 - Financial Planning Memo where payment-cycle risk matters
 - operations and support update
+- Execution Activation Plan
+- 30/60 Day Execution Plan
 
 ## Gate Behavior
 

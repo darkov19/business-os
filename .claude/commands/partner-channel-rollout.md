@@ -19,7 +19,8 @@ Operating rules:
    - `/home/darko/Code/chitr/docs/business-os-question-bank.md`
 3. Keep the work operational and governance-heavy, not abstract channel strategy.
 4. Do not recommend broad rollout if support, reorder, or collections discipline is weak.
-5. Prefer bounded rollout and measurable review cadence over uncontrolled partner sprawl.
+5. When the rollout path is clear, produce an Execution Activation Plan and a 30/60 Day Execution Plan.
+6. Prefer bounded rollout and measurable review cadence over uncontrolled partner sprawl.
 
 Aim to produce or outline:
 - Partner Channel Rollout Plan
@@ -27,3 +28,5 @@ Aim to produce or outline:
 - Route-To-Market Strategy Memo where needed
 - Financial Planning Memo where payment-cycle risk matters
 - operations and support update
+- Execution Activation Plan
+- 30/60 Day Execution Plan

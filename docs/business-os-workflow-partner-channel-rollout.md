@@ -82,6 +82,8 @@ By the end of this workflow, the system should be able to produce:
 - an Operations Playbook update
 - a Financial Planning Memo where payment-cycle risk matters
 - a Customer Success And Retention Memo where account-management logic matters
+- an Execution Activation Plan
+- a 30/60 Day Execution Plan
 
 And it should be able to state clearly:
 
@@ -89,6 +91,7 @@ And it should be able to state clearly:
 - what support and governance system is required
 - what the reorder and collections health model should be
 - what direct-versus-partner conflict rules should apply
+- what should happen in the next 30-60 days
 
 ---
 

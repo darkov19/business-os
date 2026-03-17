@@ -42,7 +42,8 @@ Run the `SaaS / Digital Product` workflow from the canonical Business OS docs.
 2. Keep a clear distinction between acquisition, activation, retention, and trust.
 3. Do not recommend aggressive growth if onboarding, activation, or retention remain weak.
 4. Prefer narrow launch or bounded validation over broad software ambition.
-5. Use evidence honestly and state confidence clearly.
+5. When the SaaS path is clear, produce an Execution Activation Plan and a 30/60 Day Execution Plan.
+6. Use evidence honestly and state confidence clearly.
 
 ## Main Docs To Load
 
@@ -65,6 +66,8 @@ Aim to produce or outline:
 - Pricing And Unit Economics Memo
 - Route-To-Market Strategy Memo
 - Customer Success And Retention Memo where relevant
+- Execution Activation Plan where the SaaS path is clear
+- 30/60 Day Execution Plan where validation or launch work is ready
 - Business Concept Dossier or Launch Dossier depending on stage
 
 ## Gate Behavior

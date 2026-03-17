@@ -82,6 +82,8 @@ By the end of this workflow, the system should be able to produce:
 - a Local Service Operations Plan
 - a Route-To-Market Strategy Memo
 - a Customer Success And Retention Memo where repeat service matters
+- an Execution Activation Plan where the operating path is clear
+- a 30/60 Day Execution Plan where launch or tightening work is ready
 - a Business Concept Dossier or Launch Dossier depending on stage
 
 And it should be able to state clearly:
@@ -90,6 +92,7 @@ And it should be able to state clearly:
 - whether the territory should be narrower
 - whether delivery systems must improve before more demand is added
 - whether reputation and recovery risk make expansion premature
+- what should happen first over the next 30-60 days
 
 ---
 

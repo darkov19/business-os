@@ -14,6 +14,7 @@ Primary outputs:
 - Marketing Strategy Plan
 - Brand, Messaging, And Trust Framework
 - Customer Success And Retention Memo where relevant
+- Execution Activation Plan
 - prioritized growth-improvement plan
 
 End states:

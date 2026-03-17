@@ -14,6 +14,7 @@ Primary outputs:
 - trust-gap note where useful
 - assisted-vs-self-serve recommendation
 - Launch Readiness update where relevant
+- Execution Activation Plan for the first 30-60 day fix sequence
 
 End states:
 

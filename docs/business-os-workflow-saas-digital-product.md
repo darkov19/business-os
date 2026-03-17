@@ -88,6 +88,8 @@ By the end of this workflow, the system should be able to produce:
 - a Pricing And Unit Economics Memo
 - a Route-To-Market Strategy Memo
 - a Customer Success And Retention Memo where relevant
+- an Execution Activation Plan where the SaaS path is clear
+- a 30/60 Day Execution Plan where validation or launch work is ready
 - a Business Concept Dossier or Launch Dossier depending on stage
 
 And it should be able to state clearly:
@@ -96,6 +98,7 @@ And it should be able to state clearly:
 - whether the product is ready for a narrow launch
 - whether onboarding or activation must improve before growth
 - whether retention risk makes scale premature
+- what should happen first over the next 30-60 days
 
 ---
 

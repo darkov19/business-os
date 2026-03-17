@@ -41,7 +41,8 @@ Run the `Local Service Business` workflow from the canonical Business OS docs.
 2. Keep operations and reputation tightly linked.
 3. Do not recommend more demand if scheduling, dispatch, or recovery are still fragile.
 4. Prefer narrower territories and tighter delivery standards over premature expansion.
-5. Use evidence honestly and state confidence clearly.
+5. When the local-service path is clear, produce an Execution Activation Plan and a 30/60 Day Execution Plan.
+6. Use evidence honestly and state confidence clearly.
 
 ## Main Docs To Load
 
@@ -64,6 +65,8 @@ Aim to produce or outline:
 - Local Service Operations Plan
 - Route-To-Market Strategy Memo
 - Customer Success And Retention Memo where repeat service matters
+- Execution Activation Plan where the operating path is clear
+- 30/60 Day Execution Plan where launch or tightening work is ready
 - Business Concept Dossier or Launch Dossier depending on stage
 
 ## Gate Behavior

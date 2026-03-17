@@ -80,6 +80,7 @@ By the end of this workflow, the system should be able to produce:
 - a Brand, Messaging, And Trust Framework update where needed
 - a Marketing Strategy Plan update where needed
 - a Launch Readiness update where relevant
+- an Execution Activation Plan for the first 30-60 day fix sequence
 
 And it should be able to state clearly:
 
@@ -87,6 +88,7 @@ And it should be able to state clearly:
 - what must be fixed before paid scale
 - what can be improved after launch
 - whether the brand should stay self-serve, assisted, or hybrid for now
+- what should happen first over the next 30-60 days
 
 ---
 

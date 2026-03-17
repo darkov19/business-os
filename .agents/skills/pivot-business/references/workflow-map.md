@@ -17,6 +17,8 @@ Primary outputs:
 - Pricing And Unit Economics Memo
 - Route-To-Market Strategy Memo
 - Financial Planning Memo where needed
+- Execution Activation Plan
+- 30/60 Day Execution Plan where the pivot should move into pilot or phased execution
 - Pivot Strategy Dossier
 
 End states:

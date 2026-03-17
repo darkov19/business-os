@@ -15,6 +15,8 @@ Primary outputs:
 - Customer Research Brief
 - Market And Competitor Memo
 - Positioning Memo
+- Route-To-Market Strategy Memo where the concept is developed enough
+- Execution Activation Plan where the first path is clear
 - Business Concept Dossier
 
 End states:

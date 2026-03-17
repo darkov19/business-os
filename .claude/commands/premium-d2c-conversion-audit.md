@@ -19,7 +19,8 @@ Operating rules:
    - `/home/darko/Code/chitr/docs/business-os-question-bank.md`
 3. Keep the audit tied to conversion decisions, not generic design taste.
 4. Do not recommend paid scale if the commerce layer still has critical trust or decision-usefulness gaps.
-5. Prefer assisted or staged conversion when premium trust and proof are still thin.
+5. Convert the audit recommendation into an Execution Activation Plan for the next 30-60 days.
+6. Prefer assisted or staged conversion when premium trust and proof are still thin.
 
 Aim to produce or outline:
 - Premium D2C Conversion Audit
@@ -27,3 +28,4 @@ Aim to produce or outline:
 - trust-gap note where useful
 - assisted-vs-self-serve recommendation
 - Launch Readiness update where relevant
+- Execution Activation Plan for the first 30-60 day fix sequence

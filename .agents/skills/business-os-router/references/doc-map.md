@@ -10,6 +10,8 @@ Use the canonical Business OS docs from `/home/darko/Code/chitr/docs`.
 - `business-os-module-map.md`
 - `business-os-artifact-map.md`
 - `business-os-decision-gate-philosophy.md`
+- `business-os-route-to-market-decision-standard.md`
+- `business-os-execution-activation-standard.md`
 
 ## Implementation Layer
 
@@ -50,3 +52,9 @@ Use the canonical Business OS docs from `/home/darko/Code/chitr/docs`.
 
 If a dedicated workflow skill exists, route to it.
 If it does not, stay in router mode and use the workflow docs directly.
+
+If the user is asking for a business decision that is actionable now, the routed workflow should usually end with:
+
+- a recommendation
+- an execution activation plan
+- a 30/60 day execution plan when the next move is clear

@@ -41,7 +41,8 @@ Run the `Premium D2C Launch Commerce` overlay from the canonical Business OS doc
 2. Keep the analysis tied to conversion decisions, not brand aesthetics alone.
 3. Do not recommend paid scale if the commerce layer is not yet believable.
 4. Prefer assisted or staged launch when premium trust and proof are still thin.
-5. Use evidence honestly and state confidence clearly.
+5. When the commerce path is clear, produce an Execution Activation Plan.
+6. Use evidence honestly and state confidence clearly.
 
 ## Main Docs To Load
 
@@ -61,6 +62,7 @@ Aim to produce or outline:
 - PDP asset checklist where useful
 - launch trust-gap note where useful
 - assisted-selling recommendation note where useful
+- Execution Activation Plan where the commerce path is clear
 
 ## Gate Behavior
 
