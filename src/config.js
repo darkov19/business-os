@@ -5,7 +5,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 export const PACKAGE_ROOT = path.resolve(__dirname, "..");
-export const PACKAGE_VERSION = "0.3.0";
+export const PACKAGE_VERSION = "0.3.1";
 export const DEFAULT_TARGET = "both";
 export const DEFAULT_PROFILE = "full";
 export const INSTALL_DIR = ".business-os";

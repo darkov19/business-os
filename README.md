@@ -1,5 +1,3 @@
-codex resume 019cf672-3bda-7510-ab30-72e28712283d
-
 # Business OS
 
 Business OS is a BMAD-style business workflow system for AI agents.
@@ -15,7 +13,7 @@ It packages:
 Published package:
 
 ```bash
-npx business-os@0.3.0 install
+npx business-os install
 ```
 
 ---
@@ -43,25 +41,25 @@ The system is designed to work with:
 Install the full published package into the current project:
 
 ```bash
-npx business-os@0.3.0 install --yes --project .
+npx business-os install --yes --project .
 ```
 
 Preview before writing files:
 
 ```bash
-npx business-os@0.3.0 install --plan --project .
+npx business-os install --plan --project .
 ```
 
 Check an installed project:
 
 ```bash
-npx business-os@0.3.0 doctor --project .
+npx business-os doctor --project .
 ```
 
 Update an installed project using its saved manifest:
 
 ```bash
-npx business-os@0.3.0 update --project .
+npx business-os update --project .
 ```
 
 ---
@@ -73,7 +71,7 @@ npx business-os@0.3.0 update --project .
 Installs the whole workflow set.
 
 ```bash
-npx business-os@0.3.0 install --yes --project . --profile full
+npx business-os install --yes --project . --profile full
 ```
 
 ### Core
@@ -81,7 +79,7 @@ npx business-os@0.3.0 install --yes --project . --profile full
 Installs the main start, pivot, launch, growth, and expansion paths.
 
 ```bash
-npx business-os@0.3.0 install --yes --project . --profile core
+npx business-os install --yes --project . --profile core
 ```
 
 ### Custom
@@ -89,7 +87,7 @@ npx business-os@0.3.0 install --yes --project . --profile core
 Installs only the components you choose.
 
 ```bash
-npx business-os@0.3.0 install --yes --project . --profile custom --components saas,premium-d2c-launch
+npx business-os install --yes --project . --profile custom --components saas,premium-d2c-launch
 ```
 
 ---
@@ -196,9 +194,9 @@ Use them for:
 
 ## Current Status
 
-Current published release:
+Current package version in this repo:
 
-- `0.3.0`
+- `0.3.1`
 
 Verified:
 
