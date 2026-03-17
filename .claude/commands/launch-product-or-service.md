@@ -19,7 +19,13 @@ Operating rules:
    - `/home/darko/Code/chitr/docs/business-os-module-map.md`
 3. Keep the workflow execution-aware.
 4. Do not recommend launch if pricing, delivery, or channels are still speculative.
-5. Prefer phased or pilot launch recommendations when readiness is mixed.
+5. Treat route-to-market as a required launch decision, not a loose options list.
+6. If hybrid is recommended, state:
+   - the primary launch channel first
+   - the later channel to activate next
+   - why now / why not now
+   - the gate for moving into the later channel
+7. Prefer phased or pilot launch recommendations when readiness is mixed.
 
 Aim to produce or outline:
 - Offer Architecture Document
@@ -32,6 +38,14 @@ Aim to produce or outline:
 - Financial Planning Memo where needed
 - Customer Success And Retention Memo where relevant
 - Launch Dossier
+
+The Route-To-Market Strategy Memo should explicitly state:
+- recommended channel architecture
+- primary launch channel first
+- secondary channel later if relevant
+- deferred channels
+- why now / why not now
+- channel decision gate
 
 End with one of:
 - ready to launch

@@ -22,7 +22,13 @@ Operating rules:
    - founder interpretation
    - future-state assumptions
 5. Do not recommend a major pivot just because the current business feels difficult or boring.
-6. Prefer pilot-first recommendations when the new direction is promising but not yet proven.
+6. Route-to-market is a required decision area, not an optional brainstorm.
+7. If hybrid channels are recommended, state:
+   - the first channel to focus on
+   - the later channel to unlock next
+   - why now / why not now
+   - the gate for moving into the later channel
+8. Prefer pilot-first recommendations when the new direction is promising but not yet proven.
 
 Aim to produce or outline:
 - Current State / Pivot Diagnosis Memo
@@ -34,6 +40,14 @@ Aim to produce or outline:
 - Route-To-Market Strategy Memo
 - Financial Planning Memo where needed
 - Pivot Strategy Dossier
+
+The Route-To-Market Strategy Memo should explicitly state:
+- recommended channel architecture
+- primary channel first
+- secondary channel later if relevant
+- deferred channels
+- why now / why not now
+- channel decision gate
 
 End with one of:
 - proceed with pivot

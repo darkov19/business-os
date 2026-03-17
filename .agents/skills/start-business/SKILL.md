@@ -46,7 +46,13 @@ Run the `Start From Scratch` workflow from the canonical Business OS docs.
    - inferred conclusions
    - open assumptions
 4. Use the evidence rubric honestly. Do not overstate weak signals.
-5. End with a clear next-step recommendation, not just a long document.
+5. If the workflow reaches route-to-market, recommend the best current channel model rather than listing options only.
+6. If hybrid is the answer, state:
+   - the first channel to focus on
+   - the later channel to unlock next
+   - why now / why not now
+   - the gate for moving into the later channel
+7. End with a clear next-step recommendation, not just a long document.
 
 ## Main Docs To Load
 
@@ -68,6 +74,7 @@ Aim to produce or outline:
 - Customer Research Brief
 - Market And Competitor Memo
 - Positioning Memo
+- Route-To-Market Strategy Memo where the concept is developed enough
 - Business Concept Dossier
 
 If the user is too early for full outputs, say so and keep the artifact set lighter.

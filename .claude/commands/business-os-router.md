@@ -62,9 +62,17 @@ Steps:
    If the user is asking for a premium D2C site, PDP, or conversion audit, prefer `/premium-d2c-conversion-audit`.
    Otherwise recommend the right canonical workflow doc and next modules.
 
+6. If the request involves channels, route-to-market, D2C vs offline, distributor vs direct, or hybrid choices, treat that as a decision problem.
+   The workflow should not stop at listing options. It should produce:
+   - recommended channel architecture
+   - primary channel first
+   - why now / why not now
+   - channel decision gate for later channels
+
 Return a compact route summary with:
 - Primary intent
 - Business context
 - Recommended workflow
 - Reason
 - First step
+- Route-to-market treatment when relevant

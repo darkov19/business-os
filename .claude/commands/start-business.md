@@ -23,7 +23,13 @@ Operating rules:
    - inferred conclusions
    - open assumptions
 5. Use the evidence rubric honestly and label confidence correctly.
-6. End with a clear next-step recommendation, not just a long document dump.
+6. If the workflow reaches route-to-market, recommend the best current channel model rather than listing options only.
+7. If hybrid is the answer, state:
+   - the first channel to focus on
+   - the later channel to unlock next
+   - why now / why not now
+   - the gate for moving into the later channel
+8. End with a clear next-step recommendation, not just a long document dump.
 
 Aim to produce or outline:
 - Founder Brief
@@ -32,6 +38,7 @@ Aim to produce or outline:
 - Customer Research Brief
 - Market And Competitor Memo
 - Positioning Memo
+- Route-To-Market Strategy Memo where the concept is developed enough
 - Business Concept Dossier
 
 End with one of:

@@ -47,7 +47,13 @@ Run the `Pivot Existing Business` workflow from the canonical Business OS docs.
    - future-state assumptions
 3. Do not recommend a major pivot just because the current business feels boring or hard.
 4. Use the gate system more strictly than in greenfield ideation.
-5. Prefer pilot-first recommendations when the new direction is promising but not yet proven.
+5. Route-to-market is a required decision area, not an optional brainstorm.
+6. If hybrid channels are recommended, state:
+   - the first channel to focus on
+   - the later channel to unlock next
+   - why now / why not now
+   - the gate for moving into the later channel
+7. Prefer pilot-first recommendations when the new direction is promising but not yet proven.
 
 ## Main Docs To Load
 
@@ -74,6 +80,15 @@ Aim to produce or outline:
 - Route-To-Market Strategy Memo
 - Financial Planning Memo where needed
 - Pivot Strategy Dossier
+
+The Route-To-Market Strategy Memo should explicitly state:
+
+- recommended channel architecture
+- primary channel first
+- secondary channel later if relevant
+- deferred channels
+- why now / why not now
+- channel decision gate
 
 ## Gate Behavior
 

@@ -30,6 +30,7 @@ Do not use this skill when the user has already clearly invoked a more specific 
    - business stage
 4. Ask only the minimum clarifying questions needed to route well.
 5. Recommend the best workflow skill or, if a skill does not exist yet, recommend the right workflow doc and module path.
+6. If the request is about channels or go-to-market, treat it as a decision problem that should end in a recommendation, not only a list of options.
 
 ## Routing Steps
 
@@ -95,6 +96,11 @@ Summarize:
 - why that workflow is the best fit
 - the first questions or first artifact expected
 
+If the request involves route-to-market, also state:
+
+- that the workflow should produce a recommended channel architecture
+- that hybrid answers must identify the first channel and the gate for later channels
+
 ## Question Discipline
 
 - Start with 1-3 compact routing questions only when needed.
@@ -110,6 +116,10 @@ When using this skill, the response should usually include:
 - `Recommended workflow`
 - `Reason`
 - `First step`
+
+When route-to-market is part of the request, also include:
+
+- `Route-to-market treatment`
 
 ## References
 
