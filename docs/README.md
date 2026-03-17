@@ -64,9 +64,11 @@ Use these to build skills and workflows:
 11. [business-os-package-validation-v0.2.0.md](./business-os-package-validation-v0.2.0.md)
 12. [business-os-release-v0.3.0.md](./business-os-release-v0.3.0.md)
 13. [business-os-package-validation-v0.3.0.md](./business-os-package-validation-v0.3.0.md)
-14. [chitr-business-os-end-to-end-run.md](./chitr-business-os-end-to-end-run.md)
-15. [chitr-codex-skill-flow.md](./chitr-codex-skill-flow.md)
-16. [chitr-route-to-market-test.md](./chitr-route-to-market-test.md)
+14. [business-os-release-v0.3.1.md](./business-os-release-v0.3.1.md)
+15. [business-os-package-validation-v0.3.1.md](./business-os-package-validation-v0.3.1.md)
+16. [chitr-business-os-end-to-end-run.md](./chitr-business-os-end-to-end-run.md)
+17. [chitr-codex-skill-flow.md](./chitr-codex-skill-flow.md)
+18. [chitr-route-to-market-test.md](./chitr-route-to-market-test.md)
 
 ## Archive
 
