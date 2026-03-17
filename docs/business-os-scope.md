@@ -181,6 +181,13 @@ The OS should now cover all of the following:
 17. Financial Planning And Capital Allocation
 18. Customer Success And Retention System
 
+For Route-To-Market And Sales Architecture, the OS should not stop at listing options. It should recommend:
+
+- the best current channel model
+- the first channel if the answer is hybrid
+- the reasons that path is stronger now than alternatives
+- the gate for when later channels should be activated
+
 ---
 
 ## 8. Must-Cover Overlay Areas

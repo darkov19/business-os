@@ -296,6 +296,8 @@ Define how the offer will reach customers and convert them.
 
 - How will people discover this launch?
 - Through which channel will they buy?
+- Which channel architecture is best for this launch right now?
+- If hybrid is likely, which channel should go first and which should wait?
 - What proof or messaging is needed?
 - What trust gaps must be solved before launch?
 
@@ -304,6 +306,13 @@ Define how the offer will reach customers and convert them.
 - Brand, Messaging, And Trust Framework
 - Route-To-Market Strategy Memo
 - Marketing Strategy Plan
+
+The Route-To-Market Strategy Memo should explicitly state:
+
+- recommended channel architecture
+- channel order of operations
+- why now / why not now
+- channel decision gate
 
 ### Gate
 

@@ -98,6 +98,15 @@ Version 2 should also pay more attention to whether evidence is:
 
 Do not recommend channel expansion without believable pricing and margin logic.
 
+### Rule 1A: First Channel Before Channel Sprawl
+
+Do not recommend vague hybrid models without stating:
+
+- the primary channel first
+- the deferred channels
+- why now / why not now
+- the gate that unlocks the next channel
+
 ### Rule 2: Capital Before Inventory Or Imports
 
 Do not recommend inventory-heavy or import-heavy moves until working-capital strain is understood.

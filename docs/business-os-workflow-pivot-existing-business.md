@@ -322,6 +322,9 @@ Translate the future direction into a usable business model.
 - How will the business make money under the new model?
 - How will the offer be delivered?
 - How will customers buy?
+- What channel architecture fits the new model best?
+- If hybrid is right, which channel should start first?
+- Why now for that channel and why not yet for the others?
 
 ### Analysis Tasks
 
@@ -336,6 +339,13 @@ Translate the future direction into a usable business model.
 - Pricing And Unit Economics Memo
 - Operations Playbook
 - Route-To-Market Strategy Memo
+
+The Route-To-Market Strategy Memo should explicitly state:
+
+- recommended channel architecture
+- channel order of operations
+- why now / why not now
+- channel decision gate
 
 ### Gate
 

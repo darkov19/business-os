@@ -230,11 +230,17 @@ Expanded in the current system to cover:
 - marketplace participation
 - direct-vs-channel conflict rules
 - local service channel logic
+- recommended channel architecture for the current stage
+- channel order of operations when hybrid is appropriate
+- why-now versus not-yet channel logic
+- decision gates for activating later channels
 
 Primary outputs:
 
 - route-to-market memo
 - sales architecture map
+- channel order-of-operations decision
+- channel decision gate
 
 ---
 

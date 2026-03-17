@@ -32,6 +32,7 @@ This workflow exists to turn that early-stage ambiguity into:
 - a basic market view
 - a first positioning direction
 - an initial offer structure
+- a first route-to-market decision
 - a clear next validation or planning path
 
 This is not a “write a business plan immediately” workflow.
@@ -108,6 +109,7 @@ This workflow should typically use:
 5. M06 Market, Competitor, And Alternatives Research
 6. M07 Positioning And Value Proposition
 7. M08 Offer Architecture
+8. M12 Route-To-Market And Sales Architecture
 
 Control modules used throughout:
 
@@ -285,6 +287,7 @@ Turn the customer and market understanding into a first strategic business frame
 
 - M07 Positioning And Value Proposition
 - M08 Offer Architecture
+- M12 Route-To-Market And Sales Architecture
 
 ### Required Questions
 
@@ -293,18 +296,23 @@ Turn the customer and market understanding into a first strategic business frame
 - What is the most credible value proposition for the chosen customer?
 - What is the likely first offer?
 - What should be included or excluded at the start?
+- What channel architecture fits this business best right now?
+- If hybrid is likely, which channel should start first?
+- Why is that better now than the alternatives?
 
 ### Analysis Tasks
 
 1. define a first positioning direction
 2. define a first value proposition
 3. identify the likely core offer
-4. avoid overly broad offer design
+4. define a first route-to-market recommendation
+5. avoid overly broad offer design
 
 ### Outputs
 
 - Positioning Memo
 - Offer Architecture Document
+- Route-To-Market Strategy Memo
 
 ### Gate
 
@@ -329,6 +337,7 @@ Consolidate the most important early findings into one usable startup-stage busi
 - Market And Competitor Memo
 - Positioning Memo
 - Offer Architecture Document
+- Route-To-Market Strategy Memo
 
 ### Output
 

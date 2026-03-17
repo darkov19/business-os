@@ -13,6 +13,7 @@ Start with:
 5. [business-os-module-map.md](./business-os-module-map.md)
 6. [business-os-artifact-map.md](./business-os-artifact-map.md)
 7. [business-os-decision-gate-philosophy.md](./business-os-decision-gate-philosophy.md)
+8. [business-os-route-to-market-decision-standard.md](./business-os-route-to-market-decision-standard.md)
 
 ## Implementation Docs
 
@@ -62,6 +63,8 @@ Use these to build skills and workflows:
 11. [business-os-package-validation-v0.2.0.md](./business-os-package-validation-v0.2.0.md)
 12. [business-os-release-v0.3.0.md](./business-os-release-v0.3.0.md)
 13. [business-os-package-validation-v0.3.0.md](./business-os-package-validation-v0.3.0.md)
+14. [chitr-business-os-end-to-end-run.md](./chitr-business-os-end-to-end-run.md)
+15. [chitr-codex-skill-flow.md](./chitr-codex-skill-flow.md)
 
 ## Archive
 

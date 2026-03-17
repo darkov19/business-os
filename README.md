@@ -1,3 +1,5 @@
+codex resume 019cf672-3bda-7510-ab30-72e28712283d
+
 # Business OS
 
 Business OS is a BMAD-style business workflow system for AI agents.

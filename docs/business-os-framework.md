@@ -127,6 +127,14 @@ The current core module set is:
 17. M17 Financial Planning And Capital Allocation
 18. M18 Customer Success And Retention System
 
+The current standard for M12 is stronger than simple channel listing. Beyond the earliest idea-stage, the system should reach an explicit route-to-market recommendation that states:
+
+- the recommended channel architecture
+- the first channel to focus on if the model is hybrid
+- the channels to defer
+- why now / why not now
+- the decision gate that unlocks later channels
+
 ---
 
 ## 7. Overlay Modules

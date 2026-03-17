@@ -463,23 +463,29 @@ Source Module: M12 Route-To-Market And Sales Architecture
 
 ## 4. Channel Options Considered
 
-## 5. Recommended Channel Strategy
+## 5. Recommended Channel Architecture
 
-## 6. Sales Model
+## 6. Channel Order Of Operations
 
-## 7. Channel Economics
+## 7. Why Now / Why Not Now
 
-## 8. Channel Risks
+## 8. Sales Model
 
-## 9. Evidence Used
+## 9. Channel Economics
 
-## 10. Assumptions
+## 10. Channel Risks
 
-## 11. Recommendation
+## 11. Channel Decision Gate
 
-## 12. Open Questions
+## 12. Evidence Used
 
-## 13. Next Steps
+## 13. Assumptions
+
+## 14. Recommendation
+
+## 15. Open Questions
+
+## 16. Next Steps
 ```
 
 ---

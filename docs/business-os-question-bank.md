@@ -326,6 +326,8 @@ Use for:
 - Should this be sold direct, through partners, through distributors, or through a sales pipeline?
 - Which channels look most realistic first?
 - What sales process does this require?
+- Which channel architecture fits this business best right now?
+- If hybrid is right, which channel should come first?
 
 ### Deeper
 
@@ -333,6 +335,9 @@ Use for:
 - Would marketplaces help or hurt?
 - Would distributors reduce margin too much?
 - Does the same channel work for all offers?
+- Why is the recommended first channel better now than the alternatives?
+- Which channels look attractive but are premature?
+- What must be proven before the second channel starts?
 
 ---
 
