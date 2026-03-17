@@ -204,13 +204,13 @@ Verified:
 - noninteractive install
 - core/full/custom profiles
 - tarball packaging
-- real post-publish `npx business-os@0.3.0 install`
+- real post-publish `npx business-os@0.3.1 install`
 - real post-publish `doctor`
 
 Release references:
 
-- [business-os-release-v0.3.0.md](/home/darko/Code/chitr/docs/business-os-release-v0.3.0.md)
-- [business-os-package-validation-v0.3.0.md](/home/darko/Code/chitr/docs/business-os-package-validation-v0.3.0.md)
+- [business-os-release-v0.3.1.md](./docs/business-os-release-v0.3.1.md)
+- [business-os-package-validation-v0.3.1.md](./docs/business-os-package-validation-v0.3.1.md)
 
 ---
 
@@ -218,16 +218,16 @@ Release references:
 
 Primary docs:
 
-- [docs/business-os-framework.md](/home/darko/Code/chitr/docs/business-os-framework.md)
-- [docs/business-os-module-map.md](/home/darko/Code/chitr/docs/business-os-module-map.md)
-- [docs/business-os-artifact-map.md](/home/darko/Code/chitr/docs/business-os-artifact-map.md)
-- [docs/business-os-installer-spec.md](/home/darko/Code/chitr/docs/business-os-installer-spec.md)
-- [docs/business-os-package-architecture.md](/home/darko/Code/chitr/docs/business-os-package-architecture.md)
-- [docs/business-os-publish-flow.md](/home/darko/Code/chitr/docs/business-os-publish-flow.md)
+- [docs/business-os-framework.md](./docs/business-os-framework.md)
+- [docs/business-os-module-map.md](./docs/business-os-module-map.md)
+- [docs/business-os-artifact-map.md](./docs/business-os-artifact-map.md)
+- [docs/business-os-installer-spec.md](./docs/business-os-installer-spec.md)
+- [docs/business-os-package-architecture.md](./docs/business-os-package-architecture.md)
+- [docs/business-os-publish-flow.md](./docs/business-os-publish-flow.md)
 
 Doc index:
 
-- [docs/README.md](/home/darko/Code/chitr/docs/README.md)
+- [docs/README.md](./docs/README.md)
 
 ---
 
